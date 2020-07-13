@@ -9,4 +9,13 @@
 
 ## Editors
 
+- [Atom](https://atom.io/)
+- [Sublime](https://www.sublimetext.com/)
+- [Brackets](http://brackets.io/)
+
 ## REST Clients
+
+- [Postman](https://www.postman.com/)
+- [Postwoman](https://postwoman.io/)
+- [Insomnia](https://insomnia.rest/)
+
