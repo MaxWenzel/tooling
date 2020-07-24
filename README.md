@@ -28,3 +28,9 @@ Designed for both development and production time use
 - [jcmd](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr006.html): is used to send diagnostic command requests to the JVM, where these requests are useful for controlling Java Flight Recordings, troubleshoot, and diagnose JVM and Java Applications
 - [jconsole](https://openjdk.java.net/tools/svc/jconsole/): a JMX-compliant graphical tool for monitoring a Java virtual machine
 
+## Testing
+
+- [Selenium](https://www.selenium.dev/): automating web applications for testing purposes
+- [cypress](https://www.cypress.io/): fast, easy and reliable testing for anything that runs in a browser
+- [Scrapy](https://scrapy.org/): an open source and collaborative framework for extracting the data you need from websites
+- [BrowserStack](https://www.browserstack.com/): cross app & browser testing
