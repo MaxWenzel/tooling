@@ -9,15 +9,15 @@
 
 ## Editors
 
-- [Atom](https://atom.io/)
-- [Sublime](https://www.sublimetext.com/)
-- [Brackets](http://brackets.io/)
+- [Atom](https://atom.io/): a desktop application built with HTML, JavaScript, CSS, and Node.js integration
+- [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
+- [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
 ## REST Clients
 
-- [Postman](https://www.postman.com/)
-- [Postwoman](https://postwoman.io/)
-- [Insomnia](https://insomnia.rest/)
+- [Postman](https://www.postman.com/): a collaboration platform for API development
+- [Postwoman](https://postwoman.io/): online REST client
+- [Insomnia](https://insomnia.rest/): design and debug APIs
 
 ## Heap Dump Analysis
 
