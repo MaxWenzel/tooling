@@ -34,3 +34,17 @@ Designed for both development and production time use
 - [cypress](https://www.cypress.io/): fast, easy and reliable testing for anything that runs in a browser
 - [Scrapy](https://scrapy.org/): an open source and collaborative framework for extracting the data you need from websites
 - [BrowserStack](https://www.browserstack.com/): cross app & browser testing
+
+## Performance / Stress tests
+
+- [k6](https://k6.io/): open source load testing tool and SaaS for engineering teams
+- [wrk](https://github.com/wg/wrk): a HTTP benchmarking tool
+- []():
+- []():
+- []():
+
+- []():
+- []():
+- []():
+- []():
+- []():
