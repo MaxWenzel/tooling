@@ -5,7 +5,7 @@
 - [DBeaver](https://dbeaver.io/): free multi-platform database tool
 - [SQuirrel](http://squirrel-sql.sourceforge.net/): a graphical Java program that will allow you to view the structure of a JDBC compliant database
 - [HeidiSQL](https://www.heidisql.com/): a free software, and has the aim to be easy to learn
-- [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
+- [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html): an integrated development environment (IDE) for working with SQL in Oracle databases
 
 ## Editors
 
