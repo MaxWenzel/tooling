@@ -34,12 +34,15 @@ Designed for both development and production time use
 - [cypress](https://www.cypress.io/): fast, easy and reliable testing for anything that runs in a browser
 - [Scrapy](https://scrapy.org/): an open source and collaborative framework for extracting the data you need from websites
 - [BrowserStack](https://www.browserstack.com/): cross app & browser testing
+- [SoapUI](https://www.soapui.org/): make it easy to create, manage, and execute end-to-end tests on REST, SOAP, & GraphQL APIs, JMS, JDBC 
 
 ## Performance / Stress tests
 
 - [k6](https://k6.io/): open source load testing tool and SaaS for engineering teams
 - [wrk](https://github.com/wg/wrk): a HTTP benchmarking tool
-- []():
+- [JMeter](https://jmeter.apache.org/): open source software designed to load test functional behavior and measure performance
+- [Gatling](https://gatling.io/): developer tool to load test your web applications
+- [Locust](https://locust.io/): an open source load testing tool
 - []():
 - []():
 
