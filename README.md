@@ -50,3 +50,11 @@ Designed for both development and production time use
 - [SeaMonkey](http://www.seamonkey-project.org/):  a community effort to develop the SeaMonkey Internet Application Suite
 - []():
 - []():
+
+## Security
+
+-[tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/): a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies
+- [Snyk](): helps you develop fast and stay secure
+- [Retire.js](http://retirejs.github.io/retire.js/): JavaScript security scanner
+- []():
