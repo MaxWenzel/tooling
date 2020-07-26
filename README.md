@@ -13,6 +13,13 @@
 - [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
 - [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
+## IDE
+
+- [VS Code](https://code.visualstudio.com/)
+- [IntelliJ](https://www.jetbrains.com/)
+- [Spring Tools](https://spring.io/tools)
+- [NetBeans](https://netbeans.org/)
+
 ## REST Clients
 
 - [Postman](https://www.postman.com/): a collaboration platform for API development
