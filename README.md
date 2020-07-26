@@ -43,8 +43,10 @@ Designed for both development and production time use
 - []():
 - []():
 
-- []():
-- []():
-- []():
+## HTML-Editor
+
+- [Bluefish](http://bluefish.openoffice.nl/): a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code
+- [BlueGriffon](http://bluegriffon.org/): a next-gen Web and EPUB Editor based on the rendering engine of Firefox
+- [SeaMonkey](http://www.seamonkey-project.org/):  a community effort to develop the SeaMonkey Internet Application Suite
 - []():
 - []():
