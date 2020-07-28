@@ -56,9 +56,9 @@ Designed for both development and production time use
 
 ## Desing Tools
 
-- [Adobe Experience Design]():
-- [Figma]():
-- [Storybook]():
+- [Adobe Experience Design](https://www.adobe.com/products/xd.html): Adobe Experience Design
+- [Figma](https://www.figma.com/): create, test, and ship better designs from start to finish
+- [Storybook](https://storybook.js.org/): an open source tool for developing UI components in isolation for React, Vue, Angular, and more. It makes building stunning UIs organized and efficient
 - []():
 
 ## HTML-Editor
