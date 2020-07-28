@@ -54,7 +54,7 @@ Designed for both development and production time use
 - []():
 - []():
 
-## Desing Tools
+## Design Tools
 
 - [Adobe Experience Design](https://www.adobe.com/products/xd.html): Adobe Experience Design
 - [Figma](https://www.figma.com/): create, test, and ship better designs from start to finish
