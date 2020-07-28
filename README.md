@@ -83,3 +83,18 @@ Designed for both development and production time use
 - [Nexus](https://www.sonatype.com/nexus-repository-oss): single source of truth for all of your components, binaries, and build artifacts.
 - [archiva](https://archiva.apache.org/): an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository
 - []():
+
+## Databases
+
+### NoSQL
+
+### Relational
+
+### Event and more
+
+- [EventStoreDB](https://eventstore.com/): a stream database built for Event Sourcing
+
+## Monitoring
+
+- [Grafana]():
+- [Prometheus]():
