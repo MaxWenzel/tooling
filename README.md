@@ -69,3 +69,10 @@ Designed for both development and production time use
 - [Snyk](): helps you develop fast and stay secure
 - [Retire.js](http://retirejs.github.io/retire.js/): JavaScript security scanner
 - []():
+
+## Artifacts
+
+- [Artifactory](https://jfrog.com/artifactory/): functioning as the single source of truth for all packages, container images and Helm charts, as they move across the entire DevOps pipeline
+- [Nexus](https://www.sonatype.com/nexus-repository-oss): single source of truth for all of your components, binaries, and build artifacts.
+- [archiva](https://archiva.apache.org/): an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository
+- []():
