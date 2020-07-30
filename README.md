@@ -13,6 +13,13 @@
 - [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
 - [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
+## Chat
+
+- [Teams]():
+- [Zoom]():
+- [Slack]():
+- [Hippchat]():
+
 ## IDE
 
 - [VS Code](https://code.visualstudio.com/)
