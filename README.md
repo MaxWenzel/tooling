@@ -26,6 +26,14 @@
 - [Postwoman](https://postwoman.io/): online REST client
 - [Insomnia](https://insomnia.rest/): design and debug APIs
 
+## Git Clients
+
+- [Fork]():
+- [GitKraken]():
+- [Tower](https://www.git-tower.com/windows): powerful Git client for Mac and Windows
+- [Git for Windows](https://gitforwindows.org/): focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike
+- []():
+
 ## Analysis
 
 - [Memory Analyzer (MAT)](https://www.eclipse.org/mat/): a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.
