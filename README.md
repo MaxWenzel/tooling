@@ -148,14 +148,14 @@ Designed for both development and production time use
 
 ## DevOps
 
-- [Chef]():
-- [Puppet]():
+- [Chef](https://www.chef.io/): empowering IT Resource Managers through automation to improve efficiency while reducing risk across IT resources
+- [Puppet](https://puppet.com/): make infrastructure actionable, scalable and intelligent
 - [Ansible](https://www.ansible.com/): powerful IT automation
 - [Salt](https://www.saltstack.com/): control and secure your digital infrastructure
 - [Packer](https://www.packer.io/): automates the creation of any type of machine image
 - [Nomad](https://www.nomadproject.io/): a simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale
 - [Terraform](https://www.terraform.io/): use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
-
+- [SdkMan](https://sdkman.io/):  a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
 
 ## Security
 
@@ -192,3 +192,8 @@ Designed for both development and production time use
 - [RevealJs](): an open source HTML presentation framework
 - [Prezi](https://prezi.com/): the better way to present.
 - [Impress](https://impress.js.org/): presentation tool based on the power of CSS3
+
+## Misc
+
+- [Jsonet](https://jsonnet.org/): a data templating language for app and tool developers
+- [Javro](https://javro.github.io/): Avro editor on steroids
