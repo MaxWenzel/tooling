@@ -15,10 +15,9 @@
 
 ## Chat
 
-- [Teams]():
-- [Zoom]():
-- [Slack]():
-- [Hippchat]():
+- [Teams]()
+- [Zoom]()
+- [Slack]()
 
 ## IDE
 
@@ -35,11 +34,11 @@
 
 ## Git Clients
 
-- [Fork]():
-- [GitKraken]():
+- [Fork](https://git-fork.com/): a fast and friendly git client for Mac and Windows
+- [GitKraken](https://www.gitkraken.com/): git client for Linux, Mac and Windows
 - [Tower](https://www.git-tower.com/windows): powerful Git client for Mac and Windows
 - [Git for Windows](https://gitforwindows.org/): focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike
-- []():
+
 
 ## Git Server
 
@@ -161,15 +160,14 @@ Designed for both development and production time use
 
 ## Container
 
-- [Rancher]():
-- [Swarm]():
-- [Kubernetes]():
+- [Rancher](https://rancher.com/): a complete software stack for teams adopting containers
+- [Kubernetes](https://kubernetes.io/): automated container deployment, scaling, and management
 - [Mesos]():
 - []():
 - []():
 
 ## Presentation
 
-- [RevealJs]():
-- [Prezi](https://prezi.com/):
-- []():
+- [RevealJs](): an open source HTML presentation framework
+- [Prezi](https://prezi.com/): the better way to present.
+- [Impress](https://impress.js.org/): presentation tool based on the power of CSS3
