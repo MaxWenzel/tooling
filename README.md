@@ -142,17 +142,22 @@ Designed for both development and production time use
 
 ## Monitoring
 
-- [Grafana]():
-- [Prometheus]():
+- [Grafana](https://grafana.com/): monitor everything
+- [Prometheus](https://prometheus.io/): open-source monitoring solution
 
 ## DevOps
 
-- [Ansible]():
-- [Salt]():
-- [Packer]():
-- [Nomad]():
-- [Terraform]():
-- []():
+- [Ansible](https://www.ansible.com/): powerful IT automation
+- [Salt](https://www.saltstack.com/): control and secure your digital infrastructure
+- [Packer](https://www.packer.io/): automates the creation of any type of machine image
+- [Nomad](https://www.nomadproject.io/): a simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale
+- [Terraform](https://www.terraform.io/): use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
+
+
+## Security
+
+- [Vault](https://www.vaultproject.io/): secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API
+- [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss
 
 ## Container
 
