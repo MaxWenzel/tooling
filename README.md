@@ -143,9 +143,13 @@ Designed for both development and production time use
 
 - [Grafana](https://grafana.com/): monitor everything
 - [Prometheus](https://prometheus.io/): open-source monitoring solution
+- [Jaeger]():
+- [OpenTracing](https://opentracing.io/):
 
 ## DevOps
 
+- [Chef]():
+- [Puppet]():
 - [Ansible](https://www.ansible.com/): powerful IT automation
 - [Salt](https://www.saltstack.com/): control and secure your digital infrastructure
 - [Packer](https://www.packer.io/): automates the creation of any type of machine image
@@ -163,8 +167,25 @@ Designed for both development and production time use
 - [Rancher](https://rancher.com/): a complete software stack for teams adopting containers
 - [Kubernetes](https://kubernetes.io/): automated container deployment, scaling, and management
 - [Mesos]():
+- [Helm](https://helm.sh/): a package manager for Kubernetes
+- [cAdvisor]():
+- [Traefik]():
+- [Knative]():
+- [Pulumi](https://www.pulumi.com/): modern Infrastructure as Code 
+- [cdk8s](https://github.com/awslabs/cdk8s): a software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and rich object-oriented APIs
+
+## CI/CD
+
+- [Jenkins]():
+- [Sonar]():
+- [Travis]():
+- [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
 - []():
-- []():
+
+## Grafic
+
+- [Blender](https://www.blender.org/): a free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+- [Gimp](https://www.gimp.org/): a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems
 
 ## Presentation
 
