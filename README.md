@@ -88,28 +88,35 @@ Designed for both development and production time use
 
 ## Cache
 
-- [Redis]():
-- [ApsaraCache]():
+- [Redis](https://redis.io/): an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker
+- [ApsaraCache](https://github.com/alibaba/ApsaraCache): based on the Redis official release 4.0 and has many features and performance enhancements.
 - [Memcached](https://memcached.org/): open source, high-performance, distributed memory object caching system
 - [RocksDB](https://rocksdb.org/): an embeddable persistent key-value store for fast storage
 - [LevelDB](https://github.com/google/leveldb): a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values 
 
+## Graph
+
+- [Neo4j](https://neo4j.com/): a native graph database, purpose-built to leverage data relationships and enable richer, more intelligent applications
+- [Dgraph](https://dgraph.io/): an open-source, scalable, distributed, highly available and fast graph database, designed from the ground up to be run in production.
+- []():
+
 
 ### NoSQL
 
-- [Mongo]():
-- [Elastic]():
-- []():
+- [Mongo](https://www.mongodb.com/): a general purpose, document-based, distributed database built for modern application developers and for the cloud era
+- [Elastic](www.elastic.co): a real-time, distributed storage, search, and analytics engine
+
 
 ### Relational
 
-- [PostGres]():
-- [MySQL]():
-- [MariaDB]():
+- [PostGres](https://www.postgresql.org/): a powerful, open source object-relational database system with over 30 years of active development
+- [MySQL](https://www.mysql.com/): popular open source database
+- [MariaDB](https://mariadb.org/): open source relational database
 
 ### Event and more
 
 - [EventStoreDB](https://eventstore.com/): a stream database built for Event Sourcing
+- [InfluxDB ](https://www.influxdata.com/): the open source time series database
 
 ## Monitoring
 
