@@ -193,6 +193,15 @@ Designed for both development and production time use
 - [Prezi](https://prezi.com/): the better way to present.
 - [Impress](https://impress.js.org/): presentation tool based on the power of CSS3
 
+## Email
+
+- [Superhuman](https://superhuman.com/): rebuilt the inbox from the ground up to make you brilliant at what you do
+- [Spark](https://sparkmailapp.com/): the best personal email client. Revolutionary email for teams
+- [June](https://june.ai/): organizes all conversations by contact so you can quickly find what you're looking for and get through your messages faster
+- [Spike](www.spikenow.com)
+- [Hey](https://hey.com/): new online email client
+
+
 ## Misc
 
 - [Jsonet](https://jsonnet.org/): a data templating language for app and tool developers
