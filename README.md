@@ -16,8 +16,8 @@
 ## Chat
 
 - [Teams]()
-- [Zoom]()
-- [Slack]()
+- [Zoom](https://zoom.us/)
+- [Slack](https://slack.com/)
 
 ## IDE
 
@@ -42,10 +42,10 @@
 
 ## Git Server
 
-- [Gogs](https://gogs.io/):
-- [Gitlab]():
-- [Github]():
-- [Butbucket]():
+- [Gogs](https://gogs.io/): a painless self-hosted Git service
+- [Gitlab](https://about.gitlab.com/): a complete CI/CD toolchain in a single application
+- [Github](https://github.com/)
+- [Bitbucket](https://bitbucket.org/product/): free unlimited private repositories
 
 ## Analysis
 
@@ -64,6 +64,7 @@ Designed for both development and production time use
 - [Scrapy](https://scrapy.org/): an open source and collaborative framework for extracting the data you need from websites
 - [BrowserStack](https://www.browserstack.com/): cross app & browser testing
 - [SoapUI](https://www.soapui.org/): make it easy to create, manage, and execute end-to-end tests on REST, SOAP, & GraphQL APIs, JMS, JDBC 
+- [Puppeteer ](https://github.com/puppeteer/puppeteer): a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium
 
 ## Performance / Stress tests
 
@@ -96,7 +97,7 @@ Designed for both development and production time use
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/): a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies
 - [Snyk](): helps you develop fast and stay secure
 - [Retire.js](http://retirejs.github.io/retire.js/): JavaScript security scanner
-- []():
+- [Dependabot](https://dependabot.com/): automated dependency updates
 
 ## Artifacts
 
@@ -156,6 +157,15 @@ Designed for both development and production time use
 - [Nomad](https://www.nomadproject.io/): a simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale
 - [Terraform](https://www.terraform.io/): use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 - [SdkMan](https://sdkman.io/):  a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
+
+### Frontend automation
+
+- [Dependabot](https://dependabot.com/): opens PR
+- [Vercel](https://vercel.com/): bot deploys and yields prodlike URL
+- [Checkly](https://www.checklyhq.com/): runs end-to-end testing with headless chrome
+- [Kodiak](https://kodiakhq.com/): auto-merges the PR when all checks pass
+- [Vercel](https://vercel.com/): bot deploys to prod domain
+-
 
 ## Security
 
