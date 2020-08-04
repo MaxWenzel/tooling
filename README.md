@@ -203,6 +203,18 @@ Designed for both development and production time use
 - [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
 - [ArgoCD](https://argoproj.github.io/argo-cd/): a declarative, GitOps continuous delivery tool for Kubernetes
 
+## Platforms
+
+- [Netlify](https://www.netlify.com/): builds, deploys and hosts your front-end
+- [Heroku](https://www.heroku.com/): a platform as a service based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps
+- [DigitalOcean](https://www.digitalocean.com/): easily build, test, manage, and scale applications of any size
+
+## CoWorking
+
+- [Notion.so](https://www.notion.so/): all-in-one workspace
+- [Craft.io](https://craft.io/): build great products together
+
+
 ## Grafic
 
 - [Blender](https://www.blender.org/): a free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
