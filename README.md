@@ -129,6 +129,7 @@ Designed for both development and production time use
 - [RocksDB](https://rocksdb.org/): an embeddable persistent key-value store for fast storage
 - [LevelDB](https://github.com/google/leveldb): a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values 
 - [Infinispan](https://infinispan.org/): a distributed in-memory key/value data store with optional schema
+- [Hazelcast IMDG](Hazelcast IMDG): distributed In-memory object store supporting a wide variety of data structures such as Map, Set, List, MultiMap, RingBuffer, HyperLogLog. Cloud and Kubernetes friendly
 
 ## Graph
 
@@ -211,6 +212,12 @@ Designed for both development and production time use
 - [Travis]():
 - [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
 - [ArgoCD](https://argoproj.github.io/argo-cd/): a declarative, GitOps continuous delivery tool for Kubernetes
+
+## API Gateway
+
+- [Tyk](https://tyk.io/): API and service management platform that’s always evolving
+- [Kong](https://konghq.com/): next-Generation API Platform for Multi-Cloud and Hybrid Organizations
+- [Apigee](https://cloud.google.com/apigee): cross-Cloud API Management Platform
 
 ## Platforms
 
