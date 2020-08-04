@@ -63,6 +63,7 @@ Designed for both development and production time use
 - [jcmd](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr006.html): is used to send diagnostic command requests to the JVM, where these requests are useful for controlling Java Flight Recordings, troubleshoot, and diagnose JVM and Java Applications
 - [jconsole](https://openjdk.java.net/tools/svc/jconsole/): a JMX-compliant graphical tool for monitoring a Java virtual machine
 - [Arthas](https://github.com/alibaba/arthas): allows developers to troubleshoot production issues for Java applications without modifying code or restarting servers.
+- [YourKit](https://www.yourkit.com/): Java and .NET profilers. Continuous performance monitoring
 
 ## Testing
 
@@ -115,7 +116,7 @@ Designed for both development and production time use
 - [Artifactory](https://jfrog.com/artifactory/): functioning as the single source of truth for all packages, container images and Helm charts, as they move across the entire DevOps pipeline
 - [Nexus](https://www.sonatype.com/nexus-repository-oss): single source of truth for all of your components, binaries, and build artifacts.
 - [archiva](https://archiva.apache.org/): an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository
-- []():
+
 
 ## Databases
 
@@ -155,8 +156,10 @@ Designed for both development and production time use
 
 - [Grafana](https://grafana.com/): monitor everything
 - [Prometheus](https://prometheus.io/): open-source monitoring solution
-- [Jaeger]():
-- [OpenTracing](https://opentracing.io/):
+- [Jaeger](https://www.jaegertracing.io/):  open source, end-to-end distributed tracing
+- [OpenTracing](https://opentracing.io/): Vendor-neutral APIs and instrumentation for distributed tracing
+- [Splunk](https://www.splunk.com/): Data-to-Everything™ Platform
+- [NewRelic](https://newrelic.com/): an observability platform built to help engineers create more perfect software 
 
 ## DevOps
 
