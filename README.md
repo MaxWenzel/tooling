@@ -127,13 +127,13 @@ Designed for both development and production time use
 
 - [Neo4j](https://neo4j.com/): a native graph database, purpose-built to leverage data relationships and enable richer, more intelligent applications
 - [Dgraph](https://dgraph.io/): an open-source, scalable, distributed, highly available and fast graph database, designed from the ground up to be run in production.
-- []():
 
 
 ### NoSQL
 
 - [Mongo](https://www.mongodb.com/): a general purpose, document-based, distributed database built for modern application developers and for the cloud era
 - [Elastic](www.elastic.co): a real-time, distributed storage, search, and analytics engine
+- [Cassandra](https://cassandra.apache.org/): the right choice when you need scalability and high availability without compromising performance
 
 
 ### Relational
