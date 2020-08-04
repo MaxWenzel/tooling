@@ -80,8 +80,7 @@ Designed for both development and production time use
 - [JMeter](https://jmeter.apache.org/): open source software designed to load test functional behavior and measure performance
 - [Gatling](https://gatling.io/): developer tool to load test your web applications
 - [Locust](https://locust.io/): an open source load testing tool
-- []():
-- []():
+
 
 ## Design Tools
 
@@ -95,7 +94,12 @@ Designed for both development and production time use
 - [Bluefish](http://bluefish.openoffice.nl/): a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code
 - [BlueGriffon](http://bluegriffon.org/): a next-gen Web and EPUB Editor based on the rendering engine of Firefox
 - [SeaMonkey](http://www.seamonkey-project.org/):  a community effort to develop the SeaMonkey Internet Application Suite
-- []():
+
+## Static Content
+
+- [Jeykyll](https://jekyllrb.com/): transform your plain text into static websites and blogs
+- [Hugo](https://gohugo.io/): a static site generator needs to extend beyond front matter and a couple of templates to be both scalable and manageable
+- [Gatsby](https://www.gatsbyjs.org/): a free and open source framework based on React that helps developers build blazing fast websites and apps
 - []():
 
 ## Security
