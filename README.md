@@ -47,7 +47,14 @@
 - [Github](https://github.com/)
 - [Bitbucket](https://bitbucket.org/product/): free unlimited private repositories
 
-## Analysis
+## Machine Learning (Notebooks)
+
+- [Datalore](https://datalore.jetbrains.com/): Online Data Science Notebook with smart coding assistance
+- [Jupyter](https://jupyter.org/): a web-based interactive development environment for Jupyter notebooks, code, and data
+- [Zeppelin](https://zeppelin.apache.org/): web-based notebook that enables data-driven,
+interactive data analytics and collaborative documents with SQL, Scala and more
+
+## JVM Analysis
 
 - [Memory Analyzer (MAT)](https://www.eclipse.org/mat/): a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.
 - [VisualVM](https://visualvm.github.io/):  a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
@@ -216,3 +223,8 @@ Designed for both development and production time use
 
 - [Jsonet](https://jsonnet.org/): a data templating language for app and tool developers
 - [Javro](https://javro.github.io/): Avro editor on steroids
+
+## Password Manager
+
+- [1Password](https://1password.com/): the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click
+- [KeePass](https://keepass.info/): free, open source, light-weight and easy-to-use password manager
