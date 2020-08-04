@@ -64,6 +64,7 @@ Designed for both development and production time use
 - [jconsole](https://openjdk.java.net/tools/svc/jconsole/): a JMX-compliant graphical tool for monitoring a Java virtual machine
 - [Arthas](https://github.com/alibaba/arthas): allows developers to troubleshoot production issues for Java applications without modifying code or restarting servers.
 - [YourKit](https://www.yourkit.com/): Java and .NET profilers. Continuous performance monitoring
+- [Byteman](https://byteman.jboss.org/): simplify Java tracing, monitoring and testing with Byteman
 
 ## Testing
 
@@ -127,6 +128,7 @@ Designed for both development and production time use
 - [Memcached](https://memcached.org/): open source, high-performance, distributed memory object caching system
 - [RocksDB](https://rocksdb.org/): an embeddable persistent key-value store for fast storage
 - [LevelDB](https://github.com/google/leveldb): a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values 
+- [Infinispan](https://infinispan.org/): a distributed in-memory key/value data store with optional schema
 
 ## Graph
 
@@ -197,6 +199,10 @@ Designed for both development and production time use
 - [Knative]():
 - [Pulumi](https://www.pulumi.com/): modern Infrastructure as Code 
 - [cdk8s](https://github.com/awslabs/cdk8s): a software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and rich object-oriented APIs
+
+## Automation
+
+- [Kogito](https://kogito.kie.org/): a next generation business automation toolkit that originates from well known Open Source projects Drools (for business rules) and jBPM (for business processes). Kogito aims at providing another approach to business automation where the main message is to expose your business knowledge (processes, rules and decisions) in a domain specific way
 
 ## CI/CD
 
