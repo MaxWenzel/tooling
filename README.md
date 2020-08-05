@@ -208,9 +208,9 @@ Designed for both development and production time use
 
 ## CI/CD
 
-- [Jenkins]():
-- [Sonar]():
-- [Travis]():
+- [Jenkins](https://www.jenkins.io/): open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project
+- [SonarQube](https://www.sonarqube.org/): automated Static Code Analysis rules, protecting your app on multiple fronts, and guiding your team
+- [Travis CI](https://travis-ci.org/): easily sync your projects with Travis CI and you’ll be testing your code in minutes
 - [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
 - [ArgoCD](https://argoproj.github.io/argo-cd/): a declarative, GitOps continuous delivery tool for Kubernetes
 - [Spinnaker](https://spinnaker.io/): an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
