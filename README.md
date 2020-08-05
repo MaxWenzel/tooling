@@ -146,7 +146,7 @@ Designed for both development and production time use
 
 ### Relational
 
-- [PostGres](https://www.postgresql.org/): a powerful, open source object-relational database system with over 30 years of active development
+- [PostgreSQL](https://www.postgresql.org/): a powerful, open source object-relational database system with over 30 years of active development
 - [MySQL](https://www.mysql.com/): popular open source database
 - [MariaDB](https://mariadb.org/): open source relational database
 
