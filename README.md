@@ -213,6 +213,9 @@ Designed for both development and production time use
 - [Travis]():
 - [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
 - [ArgoCD](https://argoproj.github.io/argo-cd/): a declarative, GitOps continuous delivery tool for Kubernetes
+- [Spinnaker](https://spinnaker.io/): an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
+- [Tekton](https://cloud.google.com/tekton?hl=en): a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details
+
 
 ## API Gateway
 
