@@ -154,6 +154,7 @@ Designed for both development and production time use
 
 - [EventStoreDB](https://eventstore.com/): a stream database built for Event Sourcing
 - [InfluxDB ](https://www.influxdata.com/): the open source time series database
+- [Timescale](https://www.timescale.com/): open-source relational database for time-series data. Fully managed or self-hosted 
 
 ## Monitoring
 
