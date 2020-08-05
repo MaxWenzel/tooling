@@ -202,6 +202,12 @@ Designed for both development and production time use
 - [Pulumi](https://www.pulumi.com/): modern Infrastructure as Code 
 - [cdk8s](https://github.com/awslabs/cdk8s): a software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and rich object-oriented APIs
 
+## Service Mesh
+
+- [Istio]():
+- [Kong Mesh](https://konghq.com/products/kong-enterprise/kong-mesh/): universal service mesh for enterprise organizations focused on simplicity, security and scalability with Kuma and Envoy
+- [Linkerd](https://linkerd.io/): an ultralight service mesh for Kubernetes. It gives you observability, reliability, and security without requiring any code changes
+
 ## Automation
 
 - [Kogito](https://kogito.kie.org/): a next generation business automation toolkit that originates from well known Open Source projects Drools (for business rules) and jBPM (for business processes). Kogito aims at providing another approach to business automation where the main message is to expose your business knowledge (processes, rules and decisions) in a domain specific way
