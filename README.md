@@ -175,7 +175,9 @@ Designed for both development and production time use
 - [Jaeger](https://www.jaegertracing.io/):  open source, end-to-end distributed tracing
 - [OpenTracing](https://opentracing.io/): Vendor-neutral APIs and instrumentation for distributed tracing
 - [Splunk](https://www.splunk.com/): Data-to-Everything™ Platform
-- [NewRelic](https://newrelic.com/): an observability platform built to help engineers create more perfect software 
+- [NewRelic](https://newrelic.com/): an observability platform built to help engineers create more perfect softwar
+- [Graylock](https://www.graylog.org/)
+- [Elastic](https://www.elastic.co)
 
 ## DevOps
 
