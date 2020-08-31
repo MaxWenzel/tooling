@@ -79,6 +79,7 @@ Designed for both development and production time use
 - [BrowserStack](https://www.browserstack.com/): cross app & browser testing
 - [SoapUI](https://www.soapui.org/): make it easy to create, manage, and execute end-to-end tests on REST, SOAP, & GraphQL APIs, JMS, JDBC 
 - [Puppeteer ](https://github.com/puppeteer/puppeteer): a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium
+- [Playwright ](https://github.com/microsoft/playwright): a Node.js library to automate Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast.
 
 ## Performance / Stress tests
 
