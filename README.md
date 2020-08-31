@@ -226,7 +226,7 @@ Designed for both development and production time use
 
 ## Service Mesh
 
-- [Istio]():
+- [Istio](https://istio.io/): connect, secure, control, and observe services.
 - [Kong Mesh](https://konghq.com/products/kong-enterprise/kong-mesh/): universal service mesh for enterprise organizations focused on simplicity, security and scalability with Kuma and Envoy
 - [Linkerd](https://linkerd.io/): an ultralight service mesh for Kubernetes. It gives you observability, reliability, and security without requiring any code changes
 
