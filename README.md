@@ -65,6 +65,7 @@
 - [Gitlab](https://about.gitlab.com/): a complete CI/CD toolchain in a single application
 - [Github](https://github.com/)
 - [Bitbucket](https://bitbucket.org/product/): free unlimited private repositories
+- [Gitea](https://gitea.io/): a painless self-hosted Git service
 
 ## Machine Learning (Notebooks)
 
@@ -270,6 +271,7 @@ Designed for both development and production time use
 - [Netlify](https://www.netlify.com/): builds, deploys and hosts your front-end
 - [Heroku](https://www.heroku.com/): a platform as a service based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps
 - [DigitalOcean](https://www.digitalocean.com/): easily build, test, manage, and scale applications of any size
+- [Vercel (former ZEIT)](https://vercel.com/): deploy web projects with the best frontend developer experience and highest end-user performance.
 
 ## CoWorking
 
