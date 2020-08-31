@@ -176,8 +176,16 @@ Designed for both development and production time use
 - [OpenTracing](https://opentracing.io/): Vendor-neutral APIs and instrumentation for distributed tracing
 - [Splunk](https://www.splunk.com/): Data-to-Everything™ Platform
 - [NewRelic](https://newrelic.com/): an observability platform built to help engineers create more perfect softwar
-- [Graylock](https://www.graylog.org/)
+- [Graylog](https://www.graylog.org/): a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine
 - [Elastic](https://www.elastic.co)
+
+### Collectors
+
+- [Graylog Sidecar](https://github.com/Graylog2/collector-sidecar): a supervisor process for 3rd party log collectors like NXLog and filebeat. The Sidecar program is able to fetch and validate configuration files from a Graylog server for various log collectors. 
+- [Elastic Agent](https://www.elastic.co/downloads/elastic-agent)
+- [Elastic Beats](https://www.elastic.co/beats/): a free and open platform for single-purpose data shippers.
+- [Elastic Logstash](https://www.elastic.co/logstash): a free and open server-side data processing pipeline that ingests data from a multitude of sources, transforms it, and then sends it to your favorite "stash."
+- [Beaver](https://github.com/python-beaver/python-beaver):  python daemon that munches on logs and sends their contents to logstash 
 
 ## DevOps
 
