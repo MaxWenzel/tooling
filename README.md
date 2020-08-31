@@ -81,6 +81,13 @@ Designed for both development and production time use
 - [Puppeteer ](https://github.com/puppeteer/puppeteer): a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium
 - [Playwright ](https://github.com/microsoft/playwright): a Node.js library to automate Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast.
 
+### Architecture
+
+- [Structure101](https://structure101.com/): track and enforce structural and architectural rules at build time with this headless companion.
+- [Degraph ](https://github.com/schauder/degraph): test and Visualize and Manage Dependencies of classes and packages in JVM Byte Code (think Scala and Java)  
+- [jQAssistant ](https://jqassistant.org/): a QA tool, which allows the definition and validation of project specific rules on a structural level. It is built upon the graph database Neo4j and can easily be plugged into the build process to automate detection of constraint violations and generate reports about user defined concepts and metrics 
+- [Structurizr ](https://structurizr.com/): a collection of tooling to create software architecture diagrams and documentation based upon the C4 model
+
 ## Performance / Stress tests
 
 - [k6](https://k6.io/): open source load testing tool and SaaS for engineering teams
@@ -88,7 +95,6 @@ Designed for both development and production time use
 - [JMeter](https://jmeter.apache.org/): open source software designed to load test functional behavior and measure performance
 - [Gatling](https://gatling.io/): developer tool to load test your web applications
 - [Locust](https://locust.io/): an open source load testing tool
-
 
 ## Design Tools
 
