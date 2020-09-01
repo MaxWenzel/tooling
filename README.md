@@ -265,11 +265,18 @@ Designed for both development and production time use
 - [Tekton](https://cloud.google.com/tekton?hl=en): a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details
 - [Drone](http://try.drone.io/): a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers
 
-## API Gateway
+## API 
+
+### Gateway
 
 - [Tyk](https://tyk.io/): API and service management platform that’s always evolving
 - [Kong](https://konghq.com/): next-Generation API Platform for Multi-Cloud and Hybrid Organizations
 - [Apigee](https://cloud.google.com/apigee): cross-Cloud API Management Platform
+
+### Design
+
+- [RAML](https://raml.org/): RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. 
+- [Swagger](https://swagger.io/): Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset.
 
 ## Platforms
 
