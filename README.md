@@ -212,6 +212,7 @@ Designed for both development and production time use
 - [Nomad](https://www.nomadproject.io/): a simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale
 - [Terraform](https://www.terraform.io/): use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 - [SdkMan](https://sdkman.io/):  a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
+- [Chocolatey](https://chocolatey.org/): a Package Manager for Windows
 
 ### Frontend automation
 
