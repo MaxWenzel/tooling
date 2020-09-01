@@ -312,3 +312,12 @@ Designed for both development and production time use
 
 - [1Password](https://1password.com/): the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click
 - [KeePass](https://keepass.info/): free, open source, light-weight and easy-to-use password manager
+
+## Convert
+
+- [Pandoc](https://pandoc.org/): a universal document converter
+
+
+## Diff
+
+- [WinMerge](https://winmerge.org/): Windows visual diff and merge for files and directories.
