@@ -133,7 +133,7 @@ Designed for both development and production time use
 - [Jeykyll](https://jekyllrb.com/): transform your plain text into static websites and blogs
 - [Hugo](https://gohugo.io/): a static site generator needs to extend beyond front matter and a couple of templates to be both scalable and manageable
 - [Gatsby](https://www.gatsbyjs.org/): a free and open source framework based on React that helps developers build blazing fast websites and apps
-- []():
+- [JBake](https://jbake.org/): a Java based, open source, static site/blog generator for developers & designers
 
 ## Security
 
@@ -324,6 +324,7 @@ Designed for both development and production time use
 
 - [1Password](https://1password.com/): the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click
 - [KeePass](https://keepass.info/): free, open source, light-weight and easy-to-use password manager
+- [LastPass](https://www.lastpass.com/): remembers all your passwords across every device for free.
 
 ## Convert
 
