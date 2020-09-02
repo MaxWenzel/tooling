@@ -43,7 +43,11 @@
 - [JRebel and XRebel for IntelliJ](https://plugins.jetbrains.com/plugin/4441-jrebel-and-xrebel-for-intellij): JRebel is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. **JRebel** enables developers to get more done in the same amount of time and stay in the flow while coding. JRebel supports a majority of real-world enterprise java stacks and is easy to install into existing development environments. **XRebel** is a performance tool for Java development which gives developers real time performance insights to help them understand and resolve potential issues faster and earlier, during the development phase.
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation): Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding...
 
+### AI Support
 
+- [Codota](https://www.codota.com/): AI-driven auto-completion
+- [DiffBlue](https://www.diffblue.com/): AI-driven tests
+- [Launchable](https://www.launchableinc.com/): AI-driven test runs
 
 ## REST Clients
 
