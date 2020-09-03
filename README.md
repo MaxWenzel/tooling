@@ -152,7 +152,7 @@ Designed for both development and production time use
 
 ## Databases
 
-## Cache
+## Cache / Key-Value
 
 - [Redis](https://redis.io/): an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker
 - [ApsaraCache](https://github.com/alibaba/ApsaraCache): based on the Redis official release 4.0 and has many features and performance enhancements.
@@ -161,6 +161,7 @@ Designed for both development and production time use
 - [LevelDB](https://github.com/google/leveldb): a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values 
 - [Infinispan](https://infinispan.org/): a distributed in-memory key/value data store with optional schema
 - [Hazelcast IMDG](https://hazelcast.org/imdg/): distributed In-memory object store supporting a wide variety of data structures such as Map, Set, List, MultiMap, RingBuffer, HyperLogLog. Cloud and Kubernetes friendly
+- [TiKV](https://github.com/tikv/tikv): an open-source, distributed, and transactional key-value database.
 
 ## Graph
 
