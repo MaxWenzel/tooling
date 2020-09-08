@@ -199,8 +199,16 @@ Designed for both development and production time use
 - [Graylog](https://www.graylog.org/): a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine
 - [Elastic](https://www.elastic.co)
 
+### Alerting
+
+- [MailHog](https://github.com/mailhog/MailHog): for testing purposes
+- [Prometheus Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/)
+- [OpenDistro](https://opendistro.github.io/for-elasticsearch/features/alerting.html): ALertManager for Elastic
+- [Cabot](https://cabotapp.com/): self-hosted watchdog for websites and infrastructure
+
 ### Collectors
 
+- [Node Exporter](https://github.com/prometheus/node_exporter): Prometheus exporter for hardware and OS metrics exposed by *NIX kernels, written in Go with pluggable metric collectors.
 - [Graylog Sidecar](https://github.com/Graylog2/collector-sidecar): a supervisor process for 3rd party log collectors like NXLog and filebeat. The Sidecar program is able to fetch and validate configuration files from a Graylog server for various log collectors. 
 - [Elastic Agent](https://www.elastic.co/downloads/elastic-agent)
 - [Elastic Beats](https://www.elastic.co/beats/): a free and open platform for single-purpose data shippers.
