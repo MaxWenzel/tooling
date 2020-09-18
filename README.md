@@ -13,6 +13,12 @@
 - [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
 - [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
+## LaTeX-Editor
+
+- [Overleaf](https://de.overleaf.com/): online editor
+- [Texmaker](https://www.xm1math.net/texmaker/): a free, modern and cross-platform LaTeX editor for linux, macosx and windows systems that integrates many tools needed to develop documents with LaTeX, in just one application.
+- [TeXstudio](https://www.texstudio.org/): an integrated writing environment for creating LaTeX documents. 
+
 ## Chat
 
 - [Teams]()
