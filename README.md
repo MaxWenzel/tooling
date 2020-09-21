@@ -155,6 +155,10 @@ Designed for both development and production time use
 - [Nexus](https://www.sonatype.com/nexus-repository-oss): single source of truth for all of your components, binaries, and build artifacts.
 - [archiva](https://archiva.apache.org/): an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository
 
+## Proxy
+
+- [Grant](https://github.com/simov/grant): OAuth Proxy
+- [Nginx](https://www.nginx.com/): an intermediary proxy service which takes a client request, passes it on to one or more servers, and subsequently delivers the server's response back to the client.
 
 ## Databases
 
