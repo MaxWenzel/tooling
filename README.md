@@ -61,6 +61,18 @@
 - [Postwoman](https://postwoman.io/): online REST client
 - [Insomnia](https://insomnia.rest/): design and debug APIs
 
+## Uptime-Monitor
+
+- [UptimeRobot](https://uptimerobot.com/)
+- [freshping](https://www.freshworks.com/website-monitoring/)
+- [Apex](https://apex.sh/)
+- [HyperPing](https://hyperping.io/)
+- [SimpleOps](https://simpleops.io/)
+- [Pingr](https://pingr.io/)
+- [UpNinja](https://www.upninja.io/)
+- [Crawl](https://crawly.app/)
+- [EasyPing](https://easyping.io/)
+
 ## Git Clients
 
 - [Fork](https://git-fork.com/): a fast and friendly git client for Mac and Windows
