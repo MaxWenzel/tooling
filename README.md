@@ -13,6 +13,12 @@
 - [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
 - [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
+### Advanced 
+
+- [Github Codespaces](https://github.com/features/codespaces)
+- [Jetbrains Code With Me](https://plugins.jetbrains.com/plugin/14896-code-with-me): a tool for collaborative development and pair programming by JetBrains. Share your coding session
+
+
 ## LaTeX-Editor
 
 - [Overleaf](https://de.overleaf.com/): online editor
