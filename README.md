@@ -190,6 +190,7 @@ Designed for both development and production time use
 - [Infinispan](https://infinispan.org/): a distributed in-memory key/value data store with optional schema
 - [Hazelcast IMDG](https://hazelcast.org/imdg/): distributed In-memory object store supporting a wide variety of data structures such as Map, Set, List, MultiMap, RingBuffer, HyperLogLog. Cloud and Kubernetes friendly
 - [TiKV](https://github.com/tikv/tikv): an open-source, distributed, and transactional key-value database.
+- [Pebble](https://github.com/cockroachdb/pebble): a LevelDB/RocksDB inspired key-value store focused on performance and internal usage by CockroachDB.
 
 ## Graph
 
