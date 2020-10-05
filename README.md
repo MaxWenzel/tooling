@@ -13,10 +13,12 @@
 - [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
 - [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
-### Advanced 
+### Online Collaboration 
 
 - [Github Codespaces](https://github.com/features/codespaces)
 - [Jetbrains Code With Me](https://plugins.jetbrains.com/plugin/14896-code-with-me): a tool for collaborative development and pair programming by JetBrains. Share your coding session
+- [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/): Real-time collaborative development
+- [Repl.it](https://repl.it/): free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.
 
 
 ## LaTeX-Editor
