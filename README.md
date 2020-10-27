@@ -213,6 +213,8 @@ Designed for both development and production time use
 - [PostgreSQL](https://www.postgresql.org/): a powerful, open source object-relational database system with over 30 years of active development
 - [MySQL](https://www.mysql.com/): popular open source database
 - [MariaDB](https://mariadb.org/): open source relational database
+- [TiDB](https://github.com/pingcap/tidb): an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. It is MySQL compatible and features horizontal scalability, strong consistency, and high availability.
+- [CockroachDB](https://github.com/cockroachdb/cockroach): a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
 
 ### Event and more
 
