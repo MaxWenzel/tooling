@@ -269,7 +269,7 @@ Designed for both development and production time use
 - [Checkly](https://www.checklyhq.com/): runs end-to-end testing with headless chrome
 - [Kodiak](https://kodiakhq.com/): auto-merges the PR when all checks pass
 - [Vercel](https://vercel.com/): bot deploys to prod domain
--
+- [Renovate](https://github.com/renovatebot/renovate): automated dependency updates. Multi-platform and multi-language.
 
 ## Security
 
@@ -370,6 +370,7 @@ Designed for both development and production time use
 - [1Password](https://1password.com/): the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click
 - [KeePass](https://keepass.info/): free, open source, light-weight and easy-to-use password manager
 - [LastPass](https://www.lastpass.com/): remembers all your passwords across every device for free.
+- [Bitwarden](https://bitwarden.com/): trusted Open Source Password Manager for Business
 
 ## Convert
 
