@@ -380,3 +380,8 @@ Designed for both development and production time use
 ## Diff
 
 - [WinMerge](https://winmerge.org/): Windows visual diff and merge for files and directories.
+
+## Project Management
+
+- [wrike](www.wrike.com): work management platform
+- [Miro](https://miro.com/): scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams
