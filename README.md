@@ -1,5 +1,11 @@
 # Collection of developer tools
 
+## Team-Chat
+
+- [TeamSpeak](https://www.teamspeak.com/): the number one choice VoIP communication system for Online Gaming.
+- [Discord](https://discord.com/): Discord servers are organized into topic-based channels where you can collaborate, share, and just talk about your day without clogging up a group chat.
+- [Mumble](https://www.mumble.info/): a free, open source, low latency, high quality voice chat application.
+
 ## SQL Clients
 
 - [DBeaver](https://dbeaver.io/): free multi-platform database tool
