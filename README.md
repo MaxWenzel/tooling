@@ -4,6 +4,10 @@
 
 Ansible, Salt, Terraform, Packer
 
+## Github Actions
+
+Auto Release
+
 ## Team-Chat
 
 - [TeamSpeak](https://www.teamspeak.com/): the number one choice VoIP communication system for Online Gaming.
