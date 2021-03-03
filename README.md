@@ -2,7 +2,12 @@
 
 ## Rollout
 
-Ansible, Salt, Terraform, Packer
+- [Ansible](https://www.ansible.com/): drive automation across open hybrid cloud deployments
+- [Salt](https://saltproject.io/): automation, infrastructure management, data-driven orchestration, remote execution, configuration management
+- [Puppet](https://puppet.com/): manage and automate more infrastructure and complex workflows in a simple, yet powerful way.
+- [Chef](https://www.chef.io/products/chef-infra): automates infrastructure configuration, ensuring every system is configured correctly and consistently.
+- [Terraform](https://www.terraform.io/): an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
+- [AWS CloudFormation](https://aws.amazon.com/cloudformation/): an easy way to model a collection of related AWS and third-party resources, provision them quickly and consistently, and manage them throughout their lifecycles, by treating infrastructure as code 
 
 ## Github Actions
 
