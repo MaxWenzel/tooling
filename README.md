@@ -311,6 +311,7 @@ Designed for both development and production time use
 
 - [Flux/GitOps Toolkit](https://toolkit.fluxcd.io/): Flux is a tool for keeping Kubernetes clusters in sync with sources of configuration (like Git repositories), and automating updates to configuration when there is new code to deploy.
 - [Cilium](https://cilium.io/): eBPF-based Networking, Observability, and Security
+- [Strimzi](https://strimzi.io/): Kafka on Kubernetes in a few minutes
 
 ## Service Mesh
 
