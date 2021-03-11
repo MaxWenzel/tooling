@@ -202,6 +202,15 @@ Designed for both development and production time use
 
 ## Databases
 
+## InMemory
+
+- [Derby](https://db.apache.org/derby/): an open source relational database implemented entirely in Java
+- [H2](https://www.h2database.com/html/main.html): Embedded and server modes; in-memory databases
+- [HSQLDB](http://hsqldb.org/): the leading SQL relational database system written in Java. It offers a small, fast multithreaded and transactional database engine with in-memory and disk-based tables and supports embedded and server modes
+- [SQLite](https://www.sqlite.org/index.html): a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+
+Alternative: [How to run integration tests at warp speed using Docker and tmpfs](https://vladmihalcea.com/how-to-run-integration-tests-at-warp-speed-with-docker-and-tmpfs/)
+
 ## Cache / Key-Value
 
 - [Redis](https://redis.io/): an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker
@@ -219,13 +228,11 @@ Designed for both development and production time use
 - [Neo4j](https://neo4j.com/): a native graph database, purpose-built to leverage data relationships and enable richer, more intelligent applications
 - [Dgraph](https://dgraph.io/): an open-source, scalable, distributed, highly available and fast graph database, designed from the ground up to be run in production.
 
-
 ### NoSQL
 
 - [Mongo](https://www.mongodb.com/): a general purpose, document-based, distributed database built for modern application developers and for the cloud era
 - [Elastic](www.elastic.co): a real-time, distributed storage, search, and analytics engine
 - [Cassandra](https://cassandra.apache.org/): the right choice when you need scalability and high availability without compromising performance
-
 
 ### Relational
 
