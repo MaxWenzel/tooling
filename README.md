@@ -306,10 +306,10 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 - [Rancher](https://rancher.com/): a complete software stack for teams adopting containers
 - [Kubernetes](https://kubernetes.io/): automated container deployment, scaling, and management
-- [Mesos]():
+- [Mesos](http://mesos.apache.org/): Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Helm](https://helm.sh/): a package manager for Kubernetes
 - [cAdvisor]():
-- [Traefik]():
+- [Traefik](https://traefik.io/): Cloud-Native Networking Stack
 - [Knative]():
 - [Pulumi](https://www.pulumi.com/): modern Infrastructure as Code 
 - [cdk8s](https://github.com/awslabs/cdk8s): a software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and rich object-oriented APIs
@@ -319,6 +319,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Flux/GitOps Toolkit](https://toolkit.fluxcd.io/): Flux is a tool for keeping Kubernetes clusters in sync with sources of configuration (like Git repositories), and automating updates to configuration when there is new code to deploy.
 - [Cilium](https://cilium.io/): eBPF-based Networking, Observability, and Security
 - [Strimzi](https://strimzi.io/): Kafka on Kubernetes in a few minutes
+- [Flux](https://fluxcd.io/): a set of continuous and progressive delivery solutions for Kubernetes, and they are open and extensible.
 
 ## Service Mesh
 
