@@ -333,6 +333,8 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 ## CI/CD
 
 - [Jenkins](https://www.jenkins.io/): open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project
+- [Concourse CI](https://concourse-ci.org/): built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD.
+- [GoCD](https://www.gocd.org/): an open source build and release tool from ThoughtWorks.
 - [SonarQube](https://www.sonarqube.org/): automated Static Code Analysis rules, protecting your app on multiple fronts, and guiding your team
 - [Travis CI](https://travis-ci.org/): easily sync your projects with Travis CI and you’ll be testing your code in minutes
 - [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
@@ -353,6 +355,10 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 - [RAML](https://raml.org/): RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. 
 - [Swagger](https://swagger.io/): Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset.
+
+### Editor
+
+- [GraphiQL](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools
 
 ## Platforms
 
