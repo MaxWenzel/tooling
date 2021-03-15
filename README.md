@@ -181,14 +181,6 @@ Designed for both development and production time use
 - [Gatsby](https://www.gatsbyjs.org/): a free and open source framework based on React that helps developers build blazing fast websites and apps
 - [JBake](https://jbake.org/): a Java based, open source, static site/blog generator for developers & designers
 
-## Security
-
-- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/): a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies
-- [Snyk](): helps you develop fast and stay secure
-- [Retire.js](http://retirejs.github.io/retire.js/): JavaScript security scanner
-- [Dependabot](https://dependabot.com/): automated dependency updates
-
 ## Artifacts
 
 - [Artifactory](https://jfrog.com/artifactory/): functioning as the single source of truth for all packages, container images and Helm charts, as they move across the entire DevOps pipeline
@@ -297,11 +289,6 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Vercel](https://vercel.com/): bot deploys to prod domain
 - [Renovate](https://github.com/renovatebot/renovate): automated dependency updates. Multi-platform and multi-language.
 
-## Security
-
-- [Vault](https://www.vaultproject.io/): secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API
-- [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss
-
 ## Container
 
 - [Rancher](https://rancher.com/): a complete software stack for teams adopting containers
@@ -407,6 +394,19 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Javro](https://javro.github.io/): Avro editor on steroids
 
 ## Security
+
+### Scanner
+
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/): a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies
+- [Snyk](): helps you develop fast and stay secure
+- [Retire.js](http://retirejs.github.io/retire.js/): JavaScript security scanner
+- [Dependabot](https://dependabot.com/): automated dependency updates
+
+### Key Server
+
+- [Vault](https://www.vaultproject.io/): secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API
+- [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss
 
 ### Encrypting Secrets
 
