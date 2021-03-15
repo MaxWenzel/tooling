@@ -331,6 +331,17 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Tekton](https://cloud.google.com/tekton?hl=en): a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details
 - [Drone](http://try.drone.io/): a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers
 
+## Big Data
+
+- [Presto](https://prestodb.io/): an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
+- [Spark](https://spark.apache.org/): a unified analytics engine for large-scale data processing.
+- [Flink](https://flink.apache.org/):  a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale
+- [Arrow](https://arrow.apache.org/): a cross-language development platform for in-memory analytics
+
+## Apache Projects
+
+- [Airflow](http://airflow.apache.org/): a platform created by the community to programmatically author, schedule and monitor workflows.
+
 ## API 
 
 ### Gateway
