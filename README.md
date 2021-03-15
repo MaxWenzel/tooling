@@ -361,6 +361,13 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 - [GraphiQL](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools
 
+## Registry
+
+- [Zookeeper](https://zookeeper.apache.org/): a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+- [etcd](https://etcd.io/): a distributed, reliable key-value store for the most critical data of a distributed system
+- [Consul](https://www.consul.io/): automate network configurations, discover services, and enable secure connectivity across any cloud or runtime.
+- [doozerd](https://github.com/ha/doozerd): a highly-available, completely consistent store for small amounts of extremely important data. 
+
 ## Platforms
 
 - [Netlify](https://www.netlify.com/): builds, deploys and hosts your front-end
@@ -399,17 +406,26 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Jsonet](https://jsonnet.org/): a data templating language for app and tool developers
 - [Javro](https://javro.github.io/): Avro editor on steroids
 
-## Password Manager
+## Security
+
+### Encrypting Secrets
+
+- [git-crypt](https://github.com/AGWA/git-crypt):  enables transparent encryption and decryption of files in a git repository. 
+- [blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in a VCS repo (i.e. Git, Mercurial, Subversion or Perforce). These commands make it easy for you to Gnu Privacy Guard (GPG) encrypt specific files in a repo so they are "encrypted at rest" in your repository. 
+- [sops](https://github.com/mozilla/sops): an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+- [transcrypt](https://github.com/elasticdog/transcrypt): a script to configure transparent encryption of sensitive files stored in a Git repository
+
+### Password Manager
 
 - [1Password](https://1password.com/): the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click
 - [KeePass](https://keepass.info/): free, open source, light-weight and easy-to-use password manager
 - [LastPass](https://www.lastpass.com/): remembers all your passwords across every device for free.
 - [Bitwarden](https://bitwarden.com/): trusted Open Source Password Manager for Business
+- [Syspass](https://github.com/nuxsmin/sysPass): PHP web based Password Manager for business and personal use
 
 ## Convert
 
 - [Pandoc](https://pandoc.org/): a universal document converter
-
 
 ## Diff
 
