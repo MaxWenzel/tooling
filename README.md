@@ -337,7 +337,9 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Spark](https://spark.apache.org/): a unified analytics engine for large-scale data processing.
 - [Flink](https://flink.apache.org/):  a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale
 - [Arrow](https://arrow.apache.org/): a cross-language development platform for in-memory analytics
-
+- [Apache Beam](https://beam.apache.org/): an open source, unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs)
+- [Materialize](https://materialize.com/): a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
+ 
 ## Change Data Capture (CDC)
 
 - [Debezium](https://debezium.io/): an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases
@@ -377,6 +379,10 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [etcd](https://etcd.io/): a distributed, reliable key-value store for the most critical data of a distributed system
 - [Consul](https://www.consul.io/): automate network configurations, discover services, and enable secure connectivity across any cloud or runtime.
 - [doozerd](https://github.com/ha/doozerd): a highly-available, completely consistent store for small amounts of extremely important data. 
+
+### Schema Registry
+
+- [Confluent Schema Registry ](https://docs.confluent.io/platform/current/schema-registry/index.html)
 
 ## Platforms
 
