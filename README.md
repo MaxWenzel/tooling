@@ -337,9 +337,19 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Spark](https://spark.apache.org/): a unified analytics engine for large-scale data processing.
 - [Flink](https://flink.apache.org/):  a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale
 - [Arrow](https://arrow.apache.org/): a cross-language development platform for in-memory analytics
+
+## Change Data Capture (CDC)
+
 - [Debezium](https://debezium.io/): an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases
 - [Maxwell](https://maxwells-daemon.io/): n application that reads MySQL binlogs and writes row updates as JSON to Kafka, Kinesis, or other streaming platforms.
+- [SpinalTab](https://github.com/airbnb/SpinalTap): a general-purpose reliable Change Data Capture (CDC) service, capable of detecting data mutations with low-latency across different data sources, and propagating them as standardized events to downstream consumers.
+- Netflix DBLog
+- [MySQL Streamer](https://github.com/Yelp/mysql_streamer):  a database change data capture and publish system. It’s responsible for capturing each individual database change, enveloping them into messages and publishing to Kafka.
 
+### Plugins
+
+- [MySQL Binary Log connector](https://github.com/osheroff/mysql-binlog-connector-java)
+- [wal2json](https://github.com/eulerto/wal2json): JSON output plugin for changeset extraction 
 ## Apache Projects
 
 - [Airflow](http://airflow.apache.org/): a platform created by the community to programmatically author, schedule and monitor workflows.
