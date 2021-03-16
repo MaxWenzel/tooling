@@ -336,6 +336,8 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Spinnaker](https://spinnaker.io/): an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
 - [Tekton](https://cloud.google.com/tekton?hl=en): a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details
 - [Drone](http://try.drone.io/): a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers
+- [AppVeyor](https://www.appveyor.com/): CI/CD service for Windows, Linux and macOS
+- [BoxFuse](https://boxfuse.com/): deploy your JVM, Node.js and Go apps to AWS.
 
 ## Big Data
 
