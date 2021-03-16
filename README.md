@@ -135,6 +135,7 @@ Designed for both development and production time use
 - [Arthas](https://github.com/alibaba/arthas): allows developers to troubleshoot production issues for Java applications without modifying code or restarting servers.
 - [YourKit](https://www.yourkit.com/): Java and .NET profilers. Continuous performance monitoring
 - [Byteman](https://byteman.jboss.org/): simplify Java tracing, monitoring and testing with Byteman
+- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler): Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 
 ## Testing
 
