@@ -280,6 +280,11 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [SdkMan](https://sdkman.io/):  a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
 - [Chocolatey](https://chocolatey.org/): a Package Manager for Windows
 
+### Test
+
+- [LocalStack](https://github.com/localstack/localstack): provides an easy-to-use test/mocking framework for developing Cloud applications. Currently, the focus is primarily on supporting the AWS cloud stack.
+- [Moto](https://github.com/spulec/moto): a library that allows you to easily mock out tests based on AWS infrastructure.
+
 ### Frontend automation
 
 - [Dependabot](https://dependabot.com/): opens PR
