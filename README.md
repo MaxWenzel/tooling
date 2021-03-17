@@ -356,6 +356,24 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - Netflix DBLog
 - [MySQL Streamer](https://github.com/Yelp/mysql_streamer):  a database change data capture and publish system. It’s responsible for capturing each individual database change, enveloping them into messages and publishing to Kafka.
 
+## Infrastructure
+
+### Offline Static Code Analysis
+
+- [tflint](https://github.com/terraform-linters/tflint): a Pluggable Terraform Linter
+- [CloudFormation Linter](https://github.com/aws-cloudformation/cfn-python-lint): Validate AWS CloudFormation yaml/json templates against the AWS CloudFormation Resource Specification and additional checks. Includes checking valid values for resource properties and best practices.
+- [cfn_nag](https://github.com/stelligent/cfn_nag): Linting tool for CloudFormation templates
+- [tfsec](https://github.com/tfsec/tfsec): Security scanner for your Terraform code
+- [checkov](https://github.com/bridgecrewio/checkov): prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+
+### Testing Infrastructure Resources
+
+- [Awspec](https://github.com/k1LoW/awspec): RSpec tests for your AWS resources.
+- [Clarity](https://github.com/xchapter7x/clarity): a declaritive test framework for Terraform
+- [Inspec](https://github.com/inspec/inspec): an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
+- [Taskcat](https://github.com/aws-quickstart/taskcat):  a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region.
+- [Terratest](https://github.com/gruntwork-io/terratest): a Go library that makes it easier to write automated tests for your infrastructure code.
+
 ### Plugins
 
 - [MySQL Binary Log connector](https://github.com/osheroff/mysql-binlog-connector-java)
