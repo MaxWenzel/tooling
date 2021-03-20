@@ -373,6 +373,9 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Inspec](https://github.com/inspec/inspec): an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
 - [Taskcat](https://github.com/aws-quickstart/taskcat):  a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region.
 - [Terratest](https://github.com/gruntwork-io/terratest): a Go library that makes it easier to write automated tests for your infrastructure code.
+- [Test Kitchen](https://github.com/test-kitchen/test-kitchen): an integration tool for developing and testing infrastructure code and software on isolated target platforms.
+- [Molecule](https://github.com/ansible-community/molecule): provides support for testing with multiple instances, operating systems and distributions, virtualization providers, test frameworks and testing scenarios.
+
 
 ### Plugins
 
