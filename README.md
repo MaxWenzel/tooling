@@ -8,6 +8,7 @@
 - [Chef](https://www.chef.io/products/chef-infra): automates infrastructure configuration, ensuring every system is configured correctly and consistently.
 - [Terraform](https://www.terraform.io/): an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
 - [AWS CloudFormation](https://aws.amazon.com/cloudformation/): an easy way to model a collection of related AWS and third-party resources, provision them quickly and consistently, and manage them throughout their lifecycles, by treating infrastructure as code 
+- [CFEngine](https://cfengine.com/): automate your infrastructure, security & compliance
 
 ## Github Actions
 
@@ -25,6 +26,14 @@ Auto Release
 - [SQuirrel](http://squirrel-sql.sourceforge.net/): a graphical Java program that will allow you to view the structure of a JDBC compliant database
 - [HeidiSQL](https://www.heidisql.com/): a free software, and has the aim to be easy to learn
 - [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html): an integrated development environment (IDE) for working with SQL in Oracle databases
+
+## Database Migration
+
+- [Liquibase](https://www.liquibase.org/): an open source project that helps millions of developers rapidly manage database schema changes
+- [Flyway](https://flywaydb.org/): Version control for your database. Robust schema evolution across all your environments
+- [DBDeploy](http://dbdeploy.com/): a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their
+database – in a simple, controlled, flexible and frequent manner.
+- [db-migrate](https://db-migrate.readthedocs.io/en/latest/): Database migration framework for node.js
 
 ## Editors
 
@@ -376,6 +385,11 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Test Kitchen](https://github.com/test-kitchen/test-kitchen): an integration tool for developing and testing infrastructure code and software on isolated target platforms.
 - [Molecule](https://github.com/ansible-community/molecule): provides support for testing with multiple instances, operating systems and distributions, virtualization providers, test frameworks and testing scenarios.
 
+### Testing conditions on Server
+
+- [Inspec](https://github.com/inspec/inspec): an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
+- [Serverspec](https://serverspec.org/): tests your servers’ actual state by executing command locally, via SSH, via WinRM, via Docker API and so on. So you don’t need to install any agent softwares on your servers and can use any configuration management tools, Puppet, Ansible, CFEngine, Itamae and so on.
+- [Terratest](https://github.com/gruntwork-io/terratest): a Go library that makes it easier to write automated tests for your infrastructure code.
 
 ### Plugins
 
