@@ -398,6 +398,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 ## Apache Projects
 
 - [Airflow](http://airflow.apache.org/): a platform created by the community to programmatically author, schedule and monitor workflows.
+- [jclouds](https://jclouds.apache.org/): an open source multi-cloud toolkit for the Java platform that gives you the freedom to create applications that are portable across clouds while giving you full control to use cloud-specific features.
 
 ## API 
 
