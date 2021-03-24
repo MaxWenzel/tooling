@@ -255,6 +255,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 - [Grafana](https://grafana.com/): monitor everything
 - [Prometheus](https://prometheus.io/): open-source monitoring solution
+- [Netflix Atlas](https://github.com/Netflix/atlas): in-memory dimensional time series database.
 - [Jaeger](https://www.jaegertracing.io/):  open source, end-to-end distributed tracing
 - [OpenTracing](https://opentracing.io/): Vendor-neutral APIs and instrumentation for distributed tracing
 - [Splunk](https://www.splunk.com/): Data-to-Everything™ Platform
