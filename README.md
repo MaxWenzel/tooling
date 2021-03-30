@@ -248,6 +248,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 - [EventStoreDB](https://eventstore.com/): a stream database built for Event Sourcing
 - [InfluxDB ](https://www.influxdata.com/): the open source time series database
+- [Graphite](https://graphiteapp.org/): an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure
 - [Timescale](https://www.timescale.com/): open-source relational database for time-series data. Fully managed or self-hosted 
 - [MinIO ](https://min.io/): the world's fastest object storage server
 
