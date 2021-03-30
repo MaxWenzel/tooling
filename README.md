@@ -264,6 +264,11 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Graylog](https://www.graylog.org/): a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine
 - [Elastic](https://www.elastic.co)
 
+### Tracing
+
+- [OpenZipkin](https://zipkin.io/): a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. 
+- [Cloud Trace](https://cloud.google.com/):  a distributed tracing system that collects latency data from your applications and displays it in the Google Cloud Console.
+
 ### Alerting
 
 - [MailHog](https://github.com/mailhog/MailHog): for testing purposes
