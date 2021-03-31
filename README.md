@@ -374,6 +374,10 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 ## Infrastructure
 
+### Misc
+
+- [cloud-init](https://cloud-init.io/): customising cloud instances
+
 ### Offline Static Code Analysis
 
 - [tflint](https://github.com/terraform-linters/tflint): a Pluggable Terraform Linter
