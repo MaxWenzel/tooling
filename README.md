@@ -331,6 +331,13 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Strimzi](https://strimzi.io/): Kafka on Kubernetes in a few minutes
 - [Flux](https://fluxcd.io/): a set of continuous and progressive delivery solutions for Kubernetes, and they are open and extensible.
 
+### Local K8-Cluster
+
+- [minikube](https://minikube.sigs.k8s.io/): minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. We proudly focus on helping application developers and new Kubernetes users.
+- [kind](https://kind.sigs.k8s.io/): a tool for running local Kubernetes clusters using Docker container “nodes”.
+kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+- [K3s](https://k3s.io/): a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+
 ## Service Mesh
 
 - [Istio](https://istio.io/): connect, secure, control, and observe services.
