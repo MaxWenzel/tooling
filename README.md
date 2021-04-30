@@ -420,8 +420,13 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [wal2json](https://github.com/eulerto/wal2json): JSON output plugin for changeset extraction 
 ## Apache Projects
 
-- [Airflow](http://airflow.apache.org/): a platform created by the community to programmatically author, schedule and monitor workflows.
+
 - [jclouds](https://jclouds.apache.org/): an open source multi-cloud toolkit for the Java platform that gives you the freedom to create applications that are portable across clouds while giving you full control to use cloud-specific features.
+
+## Managing Workflows
+
+- [Luigi](https://github.com/spotify/luigi): a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+- [Airflow](http://airflow.apache.org/): a platform created by the community to programmatically author, schedule and monitor workflows.
 
 ## API 
 
