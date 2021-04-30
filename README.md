@@ -205,6 +205,10 @@ Designed for both development and production time use
 
 ## Databases
 
+## Data Tooling
+
+- [Apache Calcite](https://calcite.apache.org/):  a dynamic data management framework. It contains many of the pieces that comprise a typical database management system, but omits some key functions: storage of data, algorithms to process data, and a repository for storing metadata.
+
 ## InMemory
 
 - [Derby](https://db.apache.org/derby/): an open source relational database implemented entirely in Java
