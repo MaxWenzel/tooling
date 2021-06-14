@@ -42,6 +42,19 @@ database – in a simple, controlled, flexible and frequent manner.
 - [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
 - [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
+## Browser Plugins
+
+- [Octotree](https://www.octotree.io/): GitHub on steroids
+- [Dark Reader](https://darkreader.org/): enable Dark Mode on Facebook, Amazon, YouTube, Google Search, Wikipedia, Twitter and many other websites
+- [SourceGraph](https://sourcegraph.com): universal Code Search. Move fast, even in big codebases.
+- [WebDeveloper](https://chrispederick.com/): a browser extension that adds various web developer tools to a browser.
+- [ColorPick Eyedropper](http://vidsbee.com/): of a kind eyedropper tool that allows you to select color values from anywhere on the screen through it's uniquely fish-eyed zoom preview lupe for pixel perfect precision.
+- Session Manager
+- JSONView
+- Page Ruler
+- [Wappalyzer](https://www.wappalyzer.com/): a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+
+
 ### Online Collaboration 
 
 - [Github Codespaces](https://github.com/features/codespaces)
