@@ -526,6 +526,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 ### Key Server
 
 - [Vault](https://www.vaultproject.io/): secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API
+- [Spring Cloud Config](https://cloud.spring.io/spring-cloud-config/reference/html/): provides server-side and client-side support for externalized configuration in a distributed system. With the Config Server, you have a central place to manage external properties for applications across all environments. 
 - [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss
 
 ### Encrypting Secrets
