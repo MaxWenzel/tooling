@@ -308,6 +308,8 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Elastic Beats](https://www.elastic.co/beats/): a free and open platform for single-purpose data shippers.
 - [Elastic Logstash](https://www.elastic.co/logstash): a free and open server-side data processing pipeline that ingests data from a multitude of sources, transforms it, and then sends it to your favorite "stash."
 - [Beaver](https://github.com/python-beaver/python-beaver):  python daemon that munches on logs and sends their contents to logstash 
+- [Apache Flume](https://flume.apache.org/): a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.
+- [Fluentd](https://www.fluentd.org/): an open source data collector for unified logging layer.
 
 ## DevOps
 
