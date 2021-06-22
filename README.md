@@ -295,6 +295,8 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 ### Alerting
 
+- [HoneyBadger](https://www.honeybadger.io/): a service that watches your applications in production and lets you know about errors and outages.
+- [Sentry](https://sentry.io/):  application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
 - [MailHog](https://github.com/mailhog/MailHog): for testing purposes
 - [Prometheus Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/)
 - [OpenDistro](https://opendistro.github.io/for-elasticsearch/features/alerting.html): ALertManager for Elastic
