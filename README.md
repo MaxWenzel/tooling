@@ -400,6 +400,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Arrow](https://arrow.apache.org/): a cross-language development platform for in-memory analytics
 - [Apache Beam](https://beam.apache.org/): an open source, unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs)
 - [Materialize](https://materialize.com/): a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
+- [Apache Iceberg](https://iceberg.apache.org/): an open table format for huge analytic datasets. Iceberg adds tables to Trino and Spark that use a high-performance format that works just like a SQL table.
+- [Apache Kudu](https://kudu.apache.org/): an open source distributed data storage engine that makes fast analytics on fast and changing data easy.
  
 ## Change Data Capture (CDC)
 
