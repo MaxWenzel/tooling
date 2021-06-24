@@ -215,6 +215,8 @@ Designed for both development and production time use
 
 - [Grant](https://github.com/simov/grant): OAuth Proxy
 - [Nginx](https://www.nginx.com/): an intermediary proxy service which takes a client request, passes it on to one or more servers, and subsequently delivers the server's response back to the client.
+- [Envoy](https://www.envoyproxy.io/): an open source edge and service proxy, designed for cloud-native applications
+- [HAProxy](http://www.haproxy.org/): a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers quite a number of the world's most visited ones. Over the years it has become the de-facto standard opensource load balancer, is now shipped with most mainstream Linux distributions, and is often deployed by default in cloud platforms.
 
 ## Databases
 
