@@ -42,6 +42,14 @@ database – in a simple, controlled, flexible and frequent manner.
 - [Sublime](https://www.sublimetext.com/): a sophisticated text editor for code, markup and prose.
 - [Brackets](http://brackets.io/): a modern, open source text editor that understands web design
 
+## Language Generation
+
+- [Xtext](https://www.eclipse.org/Xtext/index.html): a framework for development of programming languages and domain-specific languages. With Xtext you define your language using a powerful grammar language. As a result you get a full infrastructure, including parser, linker, typechecker, compiler as well as editing support for Eclipse, any editor that supports the Language Server Protocol and your favorite web browser.
+- [Chevrotain](https://chevrotain.io/docs/): Parser Building Toolkit for JavaScript
+- [Antlr](https://www.antlr.org/): ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
+- [Typefox Langium](https://www.typefox.io/blog/langium-the-new-language-engineering-tool):
+
+
 ## Browser Plugins
 
 - [Octotree](https://www.octotree.io/): GitHub on steroids
