@@ -187,6 +187,7 @@ Designed for both development and production time use
 
 ## Performance / Stress tests
 
+- [apib](https://github.com/apigee/apib): a simple, fast HTTP and API benchmarking tool
 - [k6](https://k6.io/): open source load testing tool and SaaS for engineering teams
 - [wrk](https://github.com/wg/wrk): a HTTP benchmarking tool
 - [JMeter](https://jmeter.apache.org/): open source software designed to load test functional behavior and measure performance
