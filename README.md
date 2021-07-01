@@ -273,12 +273,18 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [MariaDB](https://mariadb.org/): open source relational database
 - [TiDB](https://github.com/pingcap/tidb): an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. It is MySQL compatible and features horizontal scalability, strong consistency, and high availability.
 - [CockroachDB](https://github.com/cockroachdb/cockroach): a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
+- [Vitess DB](https://vitess.io/): a database clustering system for horizontal scaling of MySQL
 
 ### Streaming
 
 - [Materialize](https://materialize.com/): a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
 - [Rockset](https://rockset.com/): real-time indexing database for modern data applications. Serve sub-second analytics on data from operational databases, data lakes and data streams.
 - [Vectorized](https://vectorized.io/): a Kafka compatible event streaming platform. No Zookeeper®, no JVM, and no code changes required.
+- [Pravega](https://pravega.io/): a storage system that exposes Stream as the main primitive for continuous and unbounded data. A Pravega stream is a durable, elastic, append-only, unbounded sequence of bytes having good performance and strong consistency.
+
+## OLAP
+
+- [Apache Pinot](https://pinot.apache.org/): Realtime distributed OLAP datastore, designed to answer OLAP queries with low latency
 
 ### Event and more
 
