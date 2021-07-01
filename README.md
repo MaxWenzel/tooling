@@ -305,6 +305,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [NewRelic](https://newrelic.com/): an observability platform built to help engineers create more perfect softwar
 - [Graylog](https://www.graylog.org/): a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine
 - [Elastic](https://www.elastic.co)
+- [Sentry](https://sentry.io/): an application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
 
 ### Tracing
 
