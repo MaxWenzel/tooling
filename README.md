@@ -306,6 +306,8 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Graylog](https://www.graylog.org/): a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine
 - [Elastic](https://www.elastic.co)
 - [Sentry](https://sentry.io/): an application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
+- [StatsD](https://github.com/statsd/statsd): network daemon that runs on the Node.js platform and listens for statistics, like counters and timers, sent over UDP or TCP and sends aggregates to one or more pluggable backend services (e.g., Graphite).
+- [NetData](https://www.netdata.cloud/): real-time, per-second monitoring and troubleshooting solution for every environment — entirely for free.
 
 ### Tracing
 
