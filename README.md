@@ -571,6 +571,16 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Bitwarden](https://bitwarden.com/): trusted Open Source Password Manager for Business
 - [Syspass](https://github.com/nuxsmin/sysPass): PHP web based Password Manager for business and personal use
 
+### Hacking
+
+- [Dieharder](https://webhome.phy.duke.edu/~rgb/General/dieharder.php): a Random Number Test Suite
+- [hashcat](https://hashcat.net/hashcat/): advanced password recovery
+- [John the Ripper](https://www.openwall.com/john/): an Open Source password security auditing and password recovery tool available for many operating systems.
+- [Markov generator](https://openwall.info/wiki/john/markov): The assumption behind this theory is that people can remember their passwords because there is a hidden Markov model in the way they are generated.
+- [Mersenne Twister:](): a 623-dimensionally equidistributed uniform pseudo-random number generator
+- [randcrack ](https://github.com/tna0y/Python-random-module-cracker): Predict python's random module generated values.
+- []():
+
 ## Convert
 
 - [Pandoc](https://pandoc.org/): a universal document converter
