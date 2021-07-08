@@ -579,7 +579,13 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Markov generator](https://openwall.info/wiki/john/markov): The assumption behind this theory is that people can remember their passwords because there is a hidden Markov model in the way they are generated.
 - [Mersenne Twister:](): a 623-dimensionally equidistributed uniform pseudo-random number generator
 - [randcrack ](https://github.com/tna0y/Python-random-module-cracker): Predict python's random module generated values.
-- []():
+- [thc-hydra](https://github.com/vanhauser-thc/thc-hydra): claimed to be the fastest network login info (username, password) cracker.
+- [Kali Linux](https://www.kali.org/): an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+- [Aircrack-NG]():
+- [SQLiv and or SQLMap]():
+- [Fluxion]():
+- [Bettercap]():
+- [Metasploit]():
 
 ## Convert
 
