@@ -421,6 +421,9 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Materialize](https://materialize.com/): a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
 - [Apache Iceberg](https://iceberg.apache.org/): an open table format for huge analytic datasets. Iceberg adds tables to Trino and Spark that use a high-performance format that works just like a SQL table.
 - [Apache Kudu](https://kudu.apache.org/): an open source distributed data storage engine that makes fast analytics on fast and changing data easy.
+- [Trino](https://trino.io/): fast distributed SQL query engine for big data analytics that helps you explore your data universe.
+- [Delta Lake](https://delta.io/): an open-source project that enables building a Lakehouse architecture on top of existing storage systems such as S3, ADLS, GCS, and HDFS.
+- [orchestrator](https://github.com/openark/orchestrator): MySQL replication topology management and HA
  
 ## Change Data Capture (CDC)
 
