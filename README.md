@@ -178,6 +178,13 @@ Designed for both development and production time use
 - [Puppeteer ](https://github.com/puppeteer/puppeteer): a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium
 - [Playwright ](https://github.com/microsoft/playwright): a Node.js library to automate Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast.
 
+### Property Based Testing & Fuzzing
+
+- [Schemathesis](https://github.com/schemathesis/schemathesis): a modern API testing tool for web applications built with Open API and GraphQL specifications.
+- [Hypothesis](https://hypothesis.works/): a new generation of tools for automating your testing process. It combines human understanding of your problem domain with machine intelligence to improve the quality of your testing process while spending less time writing tests.
+- [RESTler](https://github.com/microsoft/restler-fuzzer): first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+- [Atheris](https://github.com/google/atheris): a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer. When fuzzing native code, Atheris can be used in combination with Address Sanitizer or Undefined Behavior Sanitizer to catch extra bugs.
+
 ### Architecture
 
 - [Structure101](https://structure101.com/): track and enforce structural and architectural rules at build time with this headless companion.
