@@ -398,6 +398,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Istio](https://istio.io/): connect, secure, control, and observe services.
 - [Kong Mesh](https://konghq.com/products/kong-enterprise/kong-mesh/): universal service mesh for enterprise organizations focused on simplicity, security and scalability with Kuma and Envoy
 - [Linkerd](https://linkerd.io/): an ultralight service mesh for Kubernetes. It gives you observability, reliability, and security without requiring any code changes
+- [Kuma](https://kuma.io/): universal Envoy service mesh for distributed service connectivity
+- [traefik mesh](https://traefik.io/traefik-mesh/):  straight-forward, easy to configure, and non-invasive service mesh that allows visibility and management of the traffic flows inside any Kubernetes cluster.
 
 ## Automation
 
