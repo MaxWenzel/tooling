@@ -611,3 +611,10 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 - [wrike](www.wrike.com): work management platform
 - [Miro](https://miro.com/): scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams
+
+## Windows Subsystem for Linux
+
+- [Pengwin](https://www.whitewaterfoundry.com/)
+- [Ubuntu](https://ubuntu.com/)
+- [Kali](https://www.kali.org/)
+- [Debian](https://www.debian.org/)
