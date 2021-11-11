@@ -1,5 +1,10 @@
 # Collection of developer tools
 
+## Developer Toolings
+
+- [Task](https://taskfile.dev/#/): a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
+- [DevUtils](https://devutils.app/): for MacOnly: Offline Toolbox for Developers
+
 ## Rollout
 
 - [Ansible](https://www.ansible.com/): drive automation across open hybrid cloud deployments
