@@ -626,3 +626,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Ubuntu](https://ubuntu.com/)
 - [Kali](https://www.kali.org/)
 - [Debian](https://www.debian.org/)
+
+## Tools for Mac
+
+- [Wez's Terminal](https://github.com/wez/wezterm): a GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
