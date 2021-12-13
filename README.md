@@ -546,6 +546,10 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Prezi](https://prezi.com/): the better way to present.
 - [Impress](https://impress.js.org/): presentation tool based on the power of CSS3
 
+### Tooling
+
+- [carbon](https://carbon.now.sh/): ceate and share beautiful images of your source code.
+
 ## Email
 
 - [Superhuman](https://superhuman.com/): rebuilt the inbox from the ground up to make you brilliant at what you do
