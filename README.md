@@ -401,6 +401,16 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 - [K3s](https://k3s.io/): a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
+### Kubernetes Tooling
+
+- [kube-shell](https://github.com/cloudnativelabs/kube-shell): an integrated shell for working with the Kubernetes
+- [kubectx](https://github.com/ahmetb/kubectx): faster way to switch between clusters and namespaces in kubectl
+- [kubetail](https://github.com/johanhaleby/kubetail): Bash script to tail Kubernetes logs from multiple pods at the same time
+- [kubectl-tree](https://github.com/ahmetb/kubectl-tree): kubectl plugin to browse Kubernetes object hierarchies as a tree
+- [k9s](https://github.com/derailed/k9s): Kubernetes CLI To Manage Your Clusters In Style
+- [kube-capacity](https://github.com/robscott/kube-capacity): a  simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+- []():
+
 ## Service Mesh
 
 - [Istio](https://istio.io/): connect, secure, control, and observe services.
@@ -634,3 +644,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 ## Tools for Mac
 
 - [Wez's Terminal](https://github.com/wez/wezterm): a GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+## TeX
+
+- [Tectonic](https://tectonic-typesetting.github.io/en-US/): a modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
+- [TinyTex](https://yihui.org/tinytex/): a lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
