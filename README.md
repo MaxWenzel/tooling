@@ -409,7 +409,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree): kubectl plugin to browse Kubernetes object hierarchies as a tree
 - [k9s](https://github.com/derailed/k9s): Kubernetes CLI To Manage Your Clusters In Style
 - [kube-capacity](https://github.com/robscott/kube-capacity): a  simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
-- []():
+- [lens](https://k8slens.dev/): Kubernetes IDE
 
 ## Service Mesh
 
