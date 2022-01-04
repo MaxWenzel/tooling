@@ -20,7 +20,8 @@
 
 ## Github Actions
 
-Auto Release
+- [GraalVM](https://github.com/marketplace/actions/github-action-for-graalvm): sets up GraalVM Community Edition and GraalVM components such as Native Image and GraalVM languages.
+
 
 ## Team-Chat
 
@@ -410,6 +411,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [k9s](https://github.com/derailed/k9s): Kubernetes CLI To Manage Your Clusters In Style
 - [kube-capacity](https://github.com/robscott/kube-capacity): a  simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [lens](https://k8slens.dev/): Kubernetes IDE
+- [kcctl](https://github.com/kcctl/kcctl): a modern and intuitive command line client for Kafka Connect
 
 ## Service Mesh
 
