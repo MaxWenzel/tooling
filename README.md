@@ -32,6 +32,7 @@
 
 ## SQL Clients
 
+- [Superset](https://superset.apache.org/): a modern data exploration and visualization platform
 - [DBeaver](https://dbeaver.io/): free multi-platform database tool
 - [SQuirrel](http://squirrel-sql.sourceforge.net/): a graphical Java program that will allow you to view the structure of a JDBC compliant database
 - [HeidiSQL](https://www.heidisql.com/): a free software, and has the aim to be easy to learn
