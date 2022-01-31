@@ -652,3 +652,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 - [Tectonic](https://tectonic-typesetting.github.io/en-US/): a modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [TinyTex](https://yihui.org/tinytex/): a lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
+
+## Streaming
+
+- [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
