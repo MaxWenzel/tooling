@@ -511,6 +511,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 ### Gateway
 
+- [Apisix](https://apisix.apache.org/): provides rich traffic management features like Load Balancing, Dynamic Upstream, Canary Release, Circuit Breaking, Authentication, Observability, and more..
+- [nginx](https://www.nginx.com/): Reverse proxy
 - [Tyk](https://tyk.io/): API and service management platform that’s always evolving
 - [Kong](https://konghq.com/): next-Generation API Platform for Multi-Cloud and Hybrid Organizations
 - [Apigee](https://cloud.google.com/apigee): cross-Cloud API Management Platform
