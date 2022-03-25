@@ -658,3 +658,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 ## Streaming
 
 - [OBS](https://obsproject.com/): Free and open source software for video recording and live streaming.
+
+## Diagrams
+
+- [PlantUML](https://plantuml.com/): a component that allows to quickly write diagrams
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/): a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
