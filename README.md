@@ -383,6 +383,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Kubernetes](https://kubernetes.io/): automated container deployment, scaling, and management
 - [Mesos](http://mesos.apache.org/): Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Helm](https://helm.sh/): a package manager for Kubernetes
+- [Kustomize](https://kustomize.io/): Kubernetes native configuration management
 - [cAdvisor]():
 - [Traefik](https://traefik.io/): Cloud-Native Networking Stack
 - [Knative]():
