@@ -646,10 +646,11 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 - [WinMerge](https://winmerge.org/): Windows visual diff and merge for files and directories.
 
-## Project Management
+## Collaboration
 
 - [wrike](www.wrike.com): work management platform
 - [Miro](https://miro.com/): scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams
+- [Figma](https://www.figma.com/): connects everyone in the design process so teams can deliver better products, faster. 
 
 ## Windows Subsystem for Linux
 
