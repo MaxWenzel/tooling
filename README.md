@@ -303,6 +303,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [TiDB](https://github.com/pingcap/tidb): an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. It is MySQL compatible and features horizontal scalability, strong consistency, and high availability.
 - [CockroachDB](https://github.com/cockroachdb/cockroach): a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
 - [Vitess DB](https://vitess.io/): a database clustering system for horizontal scaling of MySQL
+- [Yugabyte](https://www.yugabyte.com/): Open source distributed SQL Database.
 
 ### Streaming
 
