@@ -657,12 +657,13 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Miro](https://miro.com/): scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams
 - [Figma](https://www.figma.com/): connects everyone in the design process so teams can deliver better products, faster. 
 
-## Windows Subsystem for Linux
+##  Linux Derivatives
 
 - [Pengwin](https://www.whitewaterfoundry.com/)
 - [Ubuntu](https://ubuntu.com/)
 - [Kali](https://www.kali.org/)
 - [Debian](https://www.debian.org/)
+- [NixOS](https://nixos.org/):  a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
 
 ## Tools for Mac
 
