@@ -332,6 +332,9 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Jaeger](https://www.jaegertracing.io/):  open source, end-to-end distributed tracing
 - [OpenTracing](https://opentracing.io/): Vendor-neutral APIs and instrumentation for distributed tracing
 - [Splunk](https://www.splunk.com/): Data-to-Everything™ Platform
+- [Humio](https://www.humio.com/): log management with streaming observability
+- [Lightstep](https://lightstep.com/): Monitoring, observability, and incident response
+- [Honeycomb](https://www.honeycomb.io/logs/): a fast analysis tool that reveals how your code is experienced in complex and unpredictable environments. Troubleshoot complex relationships within your distributed services and solve problems faster.
 - [NewRelic](https://newrelic.com/): an observability platform built to help engineers create more perfect softwar
 - [Graylog](https://www.graylog.org/): a leading centralized log management solution built to open standards for capturing, storing, and enabling real-time analysis of terabytes of machine
 - [Elastic](https://www.elastic.co)
