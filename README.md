@@ -258,6 +258,9 @@ Designed for both development and production time use
 - [Nginx](https://www.nginx.com/): an intermediary proxy service which takes a client request, passes it on to one or more servers, and subsequently delivers the server's response back to the client.
 - [Envoy](https://www.envoyproxy.io/): an open source edge and service proxy, designed for cloud-native applications
 - [HAProxy](http://www.haproxy.org/): a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers quite a number of the world's most visited ones. Over the years it has become the de-facto standard opensource load balancer, is now shipped with most mainstream Linux distributions, and is often deployed by default in cloud platforms.
+- [Varnish HTTP Cache](https://varnish-cache.org/): a web application accelerator also known as a caching HTTP reverse proxy. You install it in front of any server that speaks HTTP and configure it to cache the contents. 
+- [Squid](http://www.squid-cache.org/): a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
+- [mod_proxy](https://httpd.apache.org/docs/2.4/mod/mod_proxy.html): implement a proxy/gateway for Apache HTTP Server, supporting a number of popular protocols as well as several different load balancing algorithms
 
 ## Databases
 
