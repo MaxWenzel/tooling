@@ -439,6 +439,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 ## Service Mesh
 
+- [Ambassador: Emissary-Ingress](https://www.getambassador.io/learn/service-mesh/): an open-source Kubernetes-native API Gateway + Layer 7 load balancer + Kubernetes Ingress built on Envoy Proxy. Emissary-ingress is a CNCF incubation project (and was formerly known as Ambassador API Gateway.)
 - [Istio](https://istio.io/): connect, secure, control, and observe services.
 - [Kong Mesh](https://konghq.com/products/kong-enterprise/kong-mesh/): universal service mesh for enterprise organizations focused on simplicity, security and scalability with Kuma and Envoy
 - [Linkerd](https://linkerd.io/): an ultralight service mesh for Kubernetes. It gives you observability, reliability, and security without requiring any code changes
