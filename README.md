@@ -399,11 +399,17 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Vercel](https://vercel.com/): bot deploys to prod domain
 - [Renovate](https://github.com/renovatebot/renovate): automated dependency updates. Multi-platform and multi-language.
 
-## Container
 
-- [Rancher](https://rancher.com/): a complete software stack for teams adopting containers
+## Container Orchestration
+
 - [Kubernetes](https://kubernetes.io/): automated container deployment, scaling, and management
 - [Mesos](http://mesos.apache.org/): Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+- [Nomad](https://www.nomadproject.io/): a  simple and flexible scheduler and orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale.
+
+### Tooling
+
+- [Flux (GitOps)](https://fluxcd.io/): a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible. 
+- [Rancher](https://rancher.com/): a complete software stack for teams adopting containers
 - [Helm](https://helm.sh/): a package manager for Kubernetes
 - [Kustomize](https://kustomize.io/): Kubernetes native configuration management
 - [cAdvisor]():
