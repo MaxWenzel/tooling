@@ -425,22 +425,17 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Knative]():
 - [Pulumi](https://www.pulumi.com/): modern Infrastructure as Code 
 - [cdk8s](https://github.com/awslabs/cdk8s): a software development framework for defining Kubernetes applications and reusable abstractions using familiar programming languages and rich object-oriented APIs
-
-### Tooling
-
-- [Flux/GitOps Toolkit](https://toolkit.fluxcd.io/): Flux is a tool for keeping Kubernetes clusters in sync with sources of configuration (like Git repositories), and automating updates to configuration when there is new code to deploy.
 - [Cilium](https://cilium.io/): eBPF-based Networking, Observability, and Security
 - [Strimzi](https://strimzi.io/): Kafka on Kubernetes in a few minutes
-- [Flux](https://fluxcd.io/): a set of continuous and progressive delivery solutions for Kubernetes, and they are open and extensible.
 
-### Local K8-Cluster
+#### Local K8-Cluster
 
 - [minikube](https://minikube.sigs.k8s.io/): minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. We proudly focus on helping application developers and new Kubernetes users.
 - [kind](https://kind.sigs.k8s.io/): a tool for running local Kubernetes clusters using Docker container “nodes”.
 kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 - [K3s](https://k3s.io/): a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
-### Kubernetes Tooling
+#### Kubernetes Tooling
 
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell): an integrated shell for working with the Kubernetes
 - [kubectx](https://github.com/ahmetb/kubectx): faster way to switch between clusters and namespaces in kubectl
