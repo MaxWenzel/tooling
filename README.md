@@ -32,6 +32,8 @@
 ## Github Actions
 
 - [GraalVM](https://github.com/marketplace/actions/github-action-for-graalvm): sets up GraalVM Community Edition and GraalVM components such as Native Image and GraalVM languages.
+- [Dependabot](https://github.com/dependabot): Automated dependency updates built into GitHub
+- [Renovate](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows.
 
 
 ## Team-Chat
@@ -347,6 +349,11 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Sentry](https://sentry.io/): an application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
 - [StatsD](https://github.com/statsd/statsd): network daemon that runs on the Node.js platform and listens for statistics, like counters and timers, sent over UDP or TCP and sends aggregates to one or more pluggable backend services (e.g., Graphite).
 - [NetData](https://www.netdata.cloud/): real-time, per-second monitoring and troubleshooting solution for every environment — entirely for free.
+- [lnav](https://lnav.org/): Logfile navigator
+
+## Documentation
+
+- [Znai](https://github.com/testingisdocumenting/znai): Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. 
 
 ### Tracing
 
@@ -698,3 +705,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 - [PlantUML](https://plantuml.com/): a component that allows to quickly write diagrams
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/): a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
+
+## Backups
+
+- [Restic](https://restic.net/): a modern backup program that can back up your files
