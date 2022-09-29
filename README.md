@@ -600,6 +600,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [RevealJs](): an open source HTML presentation framework
 - [Prezi](https://prezi.com/): the better way to present.
 - [Impress](https://impress.js.org/): presentation tool based on the power of CSS3
+- [SliDev](https://sli.dev/): Slides for developers
 
 ### Tooling
 
