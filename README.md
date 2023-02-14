@@ -706,6 +706,11 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 ## Diagrams
 
+- [Structurizr](https://structurizr.com/): allowing you to create multiple diagrams from a single model, using a number of tools and programming languages. This Structurizr DSL example creates two diagrams, based upon a single set of elements and relationships.
+- [Terrastruct](https://terrastruct.com/): Using general-purpose diagramming tools can feel like coding on Google Docs. Terrastruct is designed to handle complexity, with a feature suite tailored to software engineers like you.
+- [Ilograph](https://www.ilograph.com/): an interactive diagramming tool for documenting complex systems. It is designed for engineers of all types who want to create documentation that is more detailed, more comprehensive, and more understandable than what is possible with traditional static diagrams and text.
+- [Diagrams](https://diagrams.mingrammer.com/): lets you draw the cloud system architecture in Python code.
+- [Graphviz](): a graph visualization software for representing structural information as diagrams.
 - [PlantUML](https://plantuml.com/): a component that allows to quickly write diagrams
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/): a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 
