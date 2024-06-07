@@ -300,6 +300,8 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 ### NoSQL
 
+- [DuckDB](https://duckdb.org/): a fast in-process analytical database
+- [VoltDB](https://www.voltactivedata.com/)
 - [Mongo](https://www.mongodb.com/): a general purpose, document-based, distributed database built for modern application developers and for the cloud era
 - [Elastic](www.elastic.co): a real-time, distributed storage, search, and analytics engine
 - [Cassandra](https://cassandra.apache.org/): the right choice when you need scalability and high availability without compromising performance
