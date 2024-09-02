@@ -306,6 +306,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Elastic](www.elastic.co): a real-time, distributed storage, search, and analytics engine
 - [Cassandra](https://cassandra.apache.org/): the right choice when you need scalability and high availability without compromising performance
 - [DynamoDB](https://aws.amazon.com/dynamodb/): a key-value and document database that delivers single-digit millisecond performance at any scale. It's a fully managed, multi-region, multi-active, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications. DynamoDB can handle more than 10 trillion requests per day and can support peaks of more than 20 million requests per second.
+- [TypeSense](https://typesense.org/): an open source, typo tolerant search engine that is optimized for instant sub-50ms searches, while providing an intuitive developer experience.
 
 ### Relational
 
