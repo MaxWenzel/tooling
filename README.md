@@ -146,6 +146,7 @@ database – in a simple, controlled, flexible and frequent manner.
 - [Postman](https://www.postman.com/): a collaboration platform for API development
 - [Postwoman](https://postwoman.io/): online REST client
 - [Insomnia](https://insomnia.rest/): design and debug APIs
+- [HttpMaster](https://www.httpmaster.net/): HTTP testing and debugging
 
 ## Uptime-Monitor
 
