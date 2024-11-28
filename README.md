@@ -1,5 +1,10 @@
 # Collection of developer tools
 
+## Commandline
+
+- [sq](https://sq.io/): sq data wrangler
+- [jq](https://jqlang.github.io/jq/): jq is a lightweight and flexible command-line JSON processor.
+
 ## Python Build and Package
 
 - [uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
