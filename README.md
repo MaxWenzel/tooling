@@ -229,6 +229,10 @@ Designed for both development and production time use
 - [JMeter](https://jmeter.apache.org/): open source software designed to load test functional behavior and measure performance
 - [Gatling](https://gatling.io/): developer tool to load test your web applications
 - [Locust](https://locust.io/): an open source load testing tool
+- [Hey](https://github.com/rakyll/hey): HTTP load generator, ApacheBench (ab) replacement
+- [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil): Microservice-oriented load driver solving the coordinated-omission fallacy
+- [oha](https://github.com/hatoo/oha): HTTP load generator,
+- [ali](https://github.com/nakabonne/ali): Generate HTTP load and plot the results in real-time
 
 ## Design Tools
 
