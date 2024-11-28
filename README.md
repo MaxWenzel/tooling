@@ -477,6 +477,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 ## CI/CD
 
+- [Dagger](https://dagger.io/): An engine to run your pipelines in containers
+- [ArgoCD](https://github.com/argoproj/argo-cd): Declarative Continuous Deployment for Kubernetes
 - [Jenkins](https://www.jenkins.io/): open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project
 - [Concourse CI](https://concourse-ci.org/): built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD.
 - [GoCD](https://www.gocd.org/): an open source build and release tool from ThoughtWorks.
