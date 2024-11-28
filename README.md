@@ -1,5 +1,9 @@
 # Collection of developer tools
 
+## Python Build and Package
+
+- [uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
+
 ## (Java) Build Tools
 
 - [Ant](https://ant.apache.org/): a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. 
