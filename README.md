@@ -650,11 +650,17 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Retire.js](http://retirejs.github.io/retire.js/): JavaScript security scanner
 - [Dependabot](https://dependabot.com/): automated dependency updates
 
-### Key Server
+### Authentication
 
 - [Vault](https://www.vaultproject.io/): secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API
 - [Spring Cloud Config](https://cloud.spring.io/spring-cloud-config/reference/html/): provides server-side and client-side support for externalized configuration in a distributed system. With the Config Server, you have a central place to manage external properties for applications across all environments. 
 - [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss
+- [Authentik](https://goauthentik.io/): an IdP (Identity Provider) and SSO (Single Sign On) platform that is built with security at the forefront of every piece of code, every feature, with an emphasis on flexibility and versatility.
+- [Okta](https://www.okta.com/): provide secure identity management and single sign-on to any application.
+- [Duo](https://duo.com/):
+- [Auth0](https://auth0.com/): an easy to implement, adaptable authentication and authorization platform.
+- [Zitadel](https://zitadel.com/):  hardened and extensible turnkey solution to address all authentication and authorization needs. 
+- [Authelia](https://www.authelia.com/): an open-source authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
 ### Encrypting Secrets
 
