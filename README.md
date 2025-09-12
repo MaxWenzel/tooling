@@ -432,6 +432,13 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Buildah](https://buildah.io/): provides a command line tool that be used to create an OCI or traditional Docker image format image and to then build a working container from the image. The container can be mounted and modified and then an image can be saved based on the updated container.
 - [Skopeo](https://github.com/containers/skopeo): a command line utility that performs various operations on container images and image repositories.
 
+### Docker Images
+
+- [Windows](https://hub.docker.com/r/microsoft/windows): the official Windows base image for containers
+- [windows](https://github.com/dockur/windows): Windows inside a Docker container.
+- [macos](https://github.com/dockur/macos): macOS inside a Docker container.
+- [qemu](https://github.com/qemus/qemu): QEMU in a Docker container.   
+
 ### Container Orchestration
 
 - [Kubernetes](https://kubernetes.io/): automated container deployment, scaling, and management
