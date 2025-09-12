@@ -644,6 +644,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 ### Scanner
 
+- [Trivy](https://trivy.dev/latest/): a all-in-one open source security scanner. Use Trivy to find vulnerabilities (CVE) & misconfigurations (IaC) across code repositories, binary artifacts, container images, Kubernetes clusters, and more.
+- [OpenVAS](https://www.openvas.org/index.html): a full-featured vulnerability scanner. Its capabilities include unauthenticated and authenticated testing, various high-level and low-level internet and industrial protocols, performance tuning for large-scale scans and a powerful internal programming language to implement any type of vulnerability test.
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/): a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies
 - [Snyk](): helps you develop fast and stay secure
@@ -741,3 +743,4 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 ## Backups
 
 - [Restic](https://restic.net/): a modern backup program that can back up your files
+- [Syncthing](https://syncthing.net/): a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
