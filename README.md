@@ -1,5 +1,9 @@
 # Collection of developer tools
 
+## Developer Tools Discovery
+
+- [DevToolLab](https://devtoollab.com): A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
+
 ## Commandline
 
 - [sq](https://sq.io/): sq data wrangler
@@ -64,7 +68,7 @@
 
 - [Liquibase](https://www.liquibase.org/): an open source project that helps millions of developers rapidly manage database schema changes
 - [Flyway](https://flywaydb.org/): Version control for your database. Robust schema evolution across all your environments
-- [DBDeploy](http://dbdeploy.com/): a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their
+- [DBDeploy](http://dbdeploy.com/): a Database Change Management tool. It's for developers or DBAs who want to evolve their database design – or refactor their
 database – in a simple, controlled, flexible and frequent manner.
 - [db-migrate](https://db-migrate.readthedocs.io/en/latest/): Database migration framework for node.js
 
@@ -463,7 +467,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 #### Local K8-Cluster
 
 - [minikube](https://minikube.sigs.k8s.io/): minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. We proudly focus on helping application developers and new Kubernetes users.
-- [kind](https://kind.sigs.k8s.io/): a tool for running local Kubernetes clusters using Docker container “nodes”.
+- [kind](https://kind.sigs.k8s.io/): a tool for running local Kubernetes clusters using Docker container "nodes".
 kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 - [K3s](https://k3s.io/): a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
@@ -499,7 +503,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Concourse CI](https://concourse-ci.org/): built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD.
 - [GoCD](https://www.gocd.org/): an open source build and release tool from ThoughtWorks.
 - [SonarQube](https://www.sonarqube.org/): automated Static Code Analysis rules, protecting your app on multiple fronts, and guiding your team
-- [Travis CI](https://travis-ci.org/): easily sync your projects with Travis CI and you’ll be testing your code in minutes
+- [Travis CI](https://travis-ci.org/): easily sync your projects with Travis CI and you'll be testing your code in minutes
 - [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
 - [ArgoCD](https://argoproj.github.io/argo-cd/): a declarative, GitOps continuous delivery tool for Kubernetes
 - [Spinnaker](https://spinnaker.io/): an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
@@ -528,7 +532,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Maxwell](https://maxwells-daemon.io/): n application that reads MySQL binlogs and writes row updates as JSON to Kafka, Kinesis, or other streaming platforms.
 - [SpinalTab](https://github.com/airbnb/SpinalTap): a general-purpose reliable Change Data Capture (CDC) service, capable of detecting data mutations with low-latency across different data sources, and propagating them as standardized events to downstream consumers.
 - Netflix DBLog
-- [MySQL Streamer](https://github.com/Yelp/mysql_streamer):  a database change data capture and publish system. It’s responsible for capturing each individual database change, enveloping them into messages and publishing to Kafka.
+- [MySQL Streamer](https://github.com/Yelp/mysql_streamer):  a database change data capture and publish system. It's responsible for capturing each individual database change, enveloping them into messages and publishing to Kafka.
 
 ## Infrastructure
 
@@ -557,7 +561,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 ### Testing conditions on Server
 
 - [Inspec](https://github.com/inspec/inspec): an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
-- [Serverspec](https://serverspec.org/): tests your servers’ actual state by executing command locally, via SSH, via WinRM, via Docker API and so on. So you don’t need to install any agent softwares on your servers and can use any configuration management tools, Puppet, Ansible, CFEngine, Itamae and so on.
+- [Serverspec](https://serverspec.org/): tests your servers' actual state by executing command locally, via SSH, via WinRM, via Docker API and so on. So you don't need to install any agent softwares on your servers and can use any configuration management tools, Puppet, Ansible, CFEngine, Itamae and so on.
 - [Terratest](https://github.com/gruntwork-io/terratest): a Go library that makes it easier to write automated tests for your infrastructure code.
 
 ### Plugins
@@ -580,7 +584,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 - [Apisix](https://apisix.apache.org/): provides rich traffic management features like Load Balancing, Dynamic Upstream, Canary Release, Circuit Breaking, Authentication, Observability, and more..
 - [nginx](https://www.nginx.com/): Reverse proxy
-- [Tyk](https://tyk.io/): API and service management platform that’s always evolving
+- [Tyk](https://tyk.io/): API and service management platform that's always evolving
 - [Kong](https://konghq.com/): next-Generation API Platform for Multi-Cloud and Hybrid Organizations
 - [Apigee](https://cloud.google.com/apigee): cross-Cloud API Management Platform
 
@@ -654,7 +658,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [Trivy](https://trivy.dev/latest/): a all-in-one open source security scanner. Use Trivy to find vulnerabilities (CVE) & misconfigurations (IaC) across code repositories, binary artifacts, container images, Kubernetes clusters, and more.
 - [OpenVAS](https://www.openvas.org/index.html): a full-featured vulnerability scanner. Its capabilities include unauthenticated and authenticated testing, various high-level and low-level internet and industrial protocols, performance tuning for large-scale scans and a powerful internal programming language to implement any type of vulnerability test.
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/): a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies
+- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/): a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies
 - [Snyk](): helps you develop fast and stay secure
 - [Retire.js](http://retirejs.github.io/retire.js/): JavaScript security scanner
 - [Dependabot](https://dependabot.com/): automated dependency updates
