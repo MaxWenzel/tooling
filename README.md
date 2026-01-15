@@ -465,7 +465,7 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 - [Rancher](https://rancher.com/): a complete software stack for teams adopting containers
 - [Helm](https://helm.sh/): a package manager for Kubernetes
 - [Kustomize](https://kustomize.io/): Kubernetes native configuration management
-- [cAdvisor]():
+- [cAdvisor](https://github.com/google/cadvisor): provides container users an understanding of the resource usage and performance characteristics of their running containers.
 - [Traefik](https://traefik.io/): Cloud-Native Networking Stack
 - [Knative]():
 - [Pulumi](https://www.pulumi.com/): modern Infrastructure as Code 
@@ -490,6 +490,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [kube-capacity](https://github.com/robscott/kube-capacity): a  simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [lens](https://k8slens.dev/): Kubernetes IDE
 - [kcctl](https://github.com/kcctl/kcctl): a modern and intuitive command line client for Kafka Connect
+- [Devtron](https://github.com/devtron-labs/devtron): extensible Kubernetes Dashboard provides clear visibility into your Kubernetes clusters and streamlines Helm app management through a single, intuitive interface.
+- [Cilium](https://cilium.io/): an open source, cloud native solution for providing, securing, and observing network connectivity between workloads, fueled by the revolutionary Kernel technology eBPF
 
 ## Service Mesh
 
