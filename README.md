@@ -37,6 +37,7 @@
 - [AWS Cloud9](https://aws.amazon.com/de/cloud9/): a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. 
 - [DevBox](https://www.jetify.com/devbox): Devbox creates isolated, reproducible development environments that run anywhere. No Docker containers or Nix lang required.
 - [DevPod](https://devpod.sh/):  a tool used to create reproducible developer environments. Each developer environment runs in a separate container and is specified through a devcontainer.json. DevPod providers can create these containers on the local computer, any reachable remote machine, or in a public or private cloud. It's also possible to extend DevPod and write your own custom providers.
+- [Google Cloud Workspaces](https://cloud.google.com/workstations): Fully managed development environments for enterprises where security is critical. It improves the security of development environments while accelerating developer onboarding and productivity, including native integration with Gemini for Google Cloud.
 
 ## Rollout
 
