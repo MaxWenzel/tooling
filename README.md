@@ -492,6 +492,7 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [kcctl](https://github.com/kcctl/kcctl): a modern and intuitive command line client for Kafka Connect
 - [Devtron](https://github.com/devtron-labs/devtron): extensible Kubernetes Dashboard provides clear visibility into your Kubernetes clusters and streamlines Helm app management through a single, intuitive interface.
 - [Cilium](https://cilium.io/): an open source, cloud native solution for providing, securing, and observing network connectivity between workloads, fueled by the revolutionary Kernel technology eBPF
+- [Velero](https://velero.io/):an open source tool to safely backup and restore, perform disaster recovery, and migrate Kubernetes cluster resources and persistent volumes.
 
 ## Service Mesh
 
