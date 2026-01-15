@@ -70,6 +70,8 @@
 - [SQuirrel](http://squirrel-sql.sourceforge.net/): a graphical Java program that will allow you to view the structure of a JDBC compliant database
 - [HeidiSQL](https://www.heidisql.com/): a free software, and has the aim to be easy to learn
 - [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html): an integrated development environment (IDE) for working with SQL in Oracle databases
+- [GitHub Desktop](https://github.com/apps/desktop): GUI Git client for streamlining and enhancing your local code management process
+- [DbVisualizer](https://www.dbvis.com/): everything you need to build, manage and maintain state-of-the-art database technologies.
 
 ## Database Migration
 
