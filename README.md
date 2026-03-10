@@ -1,5 +1,17 @@
 # Collection of developer tools
 
+## Connectoren
+
+- [Fivetran](https://www.fivetran.com/?r=0): data movement, powers real-time analytics, database replication, AI workflows, and cloud migrations
+- [Airbyte](https://airbyte.com/): provides the data infrastructure layer for ELT and AI agents, built on the same open-source foundation. Use batch and CDC replication for analytics, or direct connectors and context store to power agent workflows.
+- [Matillion](https://www.matillion.com/): build and manage data pipelines with the ultimate integrated experience across low-code, Copilot, SQL, Python and dbt.
+
+## Workflow-Orchestration
+
+- [Prefect](https://www.prefect.io/): an open-source orchestration engine that turns your Python functions into production-grade data pipelines with minimal friction.
+- [Dagster](https://dagster.io/): a data orchestrator built for data engineers, with integrated lineage, observability, a declarative programming model, and best-in-class testability.
+- [Apache Airflow](https://airflow.apache.org/):  an open-source platform for developing, scheduling, and monitoring batch-oriented workflows. Airflow’s extensible Python framework enables you to build workflows connecting with virtually any technology. A web-based UI helps you visualize, manage, and debug your workflows.
+
 ## Commandline
 
 - [sq](https://sq.io/): sq data wrangler
@@ -517,7 +529,6 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 - [SonarQube](https://www.sonarqube.org/): automated Static Code Analysis rules, protecting your app on multiple fronts, and guiding your team
 - [Travis CI](https://travis-ci.org/): easily sync your projects with Travis CI and you’ll be testing your code in minutes
 - [CircleCI](https://circleci.com/): automate your development process with CI hosted in the cloud or on a private server
-- [ArgoCD](https://argoproj.github.io/argo-cd/): a declarative, GitOps continuous delivery tool for Kubernetes
 - [Spinnaker](https://spinnaker.io/): an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
 - [Tekton](https://cloud.google.com/tekton?hl=en): a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details
 - [Drone](http://try.drone.io/): a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers
