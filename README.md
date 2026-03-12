@@ -16,6 +16,7 @@
 * [Trino](https://trino.io/): a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 * [Apache Impala](https://impala.apache.org/): a open source, native analytic database for open data and table formats.
 * [Snowflake](https://docs.snowflake.com/en/)
+* [Apache Hive](https://hive.apache.org/): a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale and facilitates reading, writing, and managing petabytes of data residing in distributed storage using SQL.
 
 ### Connectoren
 
