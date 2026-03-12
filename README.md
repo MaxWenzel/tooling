@@ -7,10 +7,12 @@
 - [Apache Kafka](https://kafka.apache.org/): an event streaming platform.
 - [Apache Pulsar](https://pulsar.apache.org/): an open-source, distributed messaging and streaming platform built for the cloud.
 - [Apache Spark](https://spark.apache.org/): a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
-- [Apache Beam](https://beam.apache.org/):  a unified model for defining both batch and streaming data-parallel processing pipelines. 
+- [Apache Beam](https://beam.apache.org/):  a unified model for defining both batch and streaming data-parallel processing pipelines.
+- [NATS](https://nats.io/): a simple, secure and high performance open source data layer for cloud native applications, IoT messaging, and microservices architectures.
 
-### Databases
+### Data
 
+* [Apache Iceberg](https://iceberg.apache.org/): a high-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
 * [Apache Druid](https://druid.apache.org/): a high performance, real-time analytics database that delivers sub-second queries on streaming and batch data at scale and under load.
 * [Apache Hudi](https://hudi.apache.org/):  an open data lakehouse platform, built on a high-performance open table format to bring database functionality to your data lakes. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
 * [Trino](https://trino.io/): a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
