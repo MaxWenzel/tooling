@@ -1,12 +1,29 @@
 # Collection of developer tools
 
-## Connectoren
+## Big Data Tooling
+
+### Processing
+
+- [Apache Kafka](https://kafka.apache.org/): an event streaming platform.
+- [Apache Pulsar](https://pulsar.apache.org/): an open-source, distributed messaging and streaming platform built for the cloud.
+- [Apache Spark](https://spark.apache.org/): a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+- [Apache Beam](https://beam.apache.org/):  a unified model for defining both batch and streaming data-parallel processing pipelines. 
+
+### Databases
+
+* [Apache Druid](https://druid.apache.org/): a high performance, real-time analytics database that delivers sub-second queries on streaming and batch data at scale and under load.
+* [Apache Hudi](https://hudi.apache.org/):  an open data lakehouse platform, built on a high-performance open table format to bring database functionality to your data lakes. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
+* [Trino](https://trino.io/): a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
+* [Apache Impala](https://impala.apache.org/): a open source, native analytic database for open data and table formats.
+* [Snowflake](https://docs.snowflake.com/en/)
+
+### Connectoren
 
 - [Fivetran](https://www.fivetran.com/?r=0): data movement, powers real-time analytics, database replication, AI workflows, and cloud migrations
 - [Airbyte](https://airbyte.com/): provides the data infrastructure layer for ELT and AI agents, built on the same open-source foundation. Use batch and CDC replication for analytics, or direct connectors and context store to power agent workflows.
 - [Matillion](https://www.matillion.com/): build and manage data pipelines with the ultimate integrated experience across low-code, Copilot, SQL, Python and dbt.
 
-## Workflow-Orchestration
+### Workflow-Orchestration
 
 - [Prefect](https://www.prefect.io/): an open-source orchestration engine that turns your Python functions into production-grade data pipelines with minimal friction.
 - [Dagster](https://dagster.io/): a data orchestrator built for data engineers, with integrated lineage, observability, a declarative programming model, and best-in-class testability.
