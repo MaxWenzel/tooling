@@ -14,6 +14,11 @@
 - [Dask](https://www.dask.org/): a Python library for parallel and distributed computing.
 - [Apache Spark](https://spark.apache.org/): a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 
+## Formats
+
+- [Parquet](https://parquet.apache.org/): an open source, column-oriented data file format designed for efficient data storage and retrieval. It provides high performance compression and encoding schemes to handle complex data in bulk and is supported in many programming languages and analytics tools.
+- [Avro](https://avro.apache.org/):  the leading serialization format for record data, and first choice for streaming data pipelines. It offers excellent schema evolution, and has implementations for the JVM (Java, Kotlin, Scala, …), Python, C/C++/C#, PHP, Ruby, Rust, JavaScript, and even Perl.
+- [Apache ORC](https://orc.apache.org/): a self-describing type-aware columnar file format designed for Hadoop workloads. It is optimized for large streaming reads, but with integrated support for finding required rows quickly.
 
 ### Data
 
