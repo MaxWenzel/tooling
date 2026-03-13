@@ -2,13 +2,18 @@
 
 ## Big Data Tooling
 
-### Processing
+## Streaming
 
 - [Apache Kafka](https://kafka.apache.org/): an event streaming platform.
 - [Apache Pulsar](https://pulsar.apache.org/): an open-source, distributed messaging and streaming platform built for the cloud.
-- [Apache Spark](https://spark.apache.org/): a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 - [Apache Beam](https://beam.apache.org/):  a unified model for defining both batch and streaming data-parallel processing pipelines.
 - [NATS](https://nats.io/): a simple, secure and high performance open source data layer for cloud native applications, IoT messaging, and microservices architectures.
+
+### Processing
+
+- [Dask](https://www.dask.org/): a Python library for parallel and distributed computing.
+- [Apache Spark](https://spark.apache.org/): a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+
 
 ### Data
 
