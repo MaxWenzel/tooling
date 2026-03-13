@@ -341,6 +341,8 @@ Alternative: [How to run integration tests at warp speed using Docker and tmpfs]
 
 ## Cache / Key-Value
 
+- [KeyDB](https://docs.keydb.dev/): a fully open source database, backed by Snap, and a faster drop in alternative to Redis.
+- [Dragonfly](https://www.dragonflydb.io/): an  in-memory infrastructure for data-intensive caching, feature stores, job queues, and more. Dragonfly is API compatible with Redis, Valkey, and Memcached, allowing for quick and seamless migrations.
 - [Redis](https://redis.io/): an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker
 - [ApsaraCache](https://github.com/alibaba/ApsaraCache): based on the Redis official release 4.0 and has many features and performance enhancements.
 - [Memcached](https://memcached.org/): open source, high-performance, distributed memory object caching system
